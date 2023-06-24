@@ -1,0 +1,3501 @@
+,Chapter,text,is_question,is_exam,error,processed,good,truefalse,fillblank,mc,name_field,is_string
+37,15-433-investments-spring-2003,"15.433 Investments 
+Final Exam Spring 2003 
+Name: ____________________ Result : ______ 
+Total: 40 points: ____40 
+Instructions: This test has 35 questions. You can use a calculator and a “cheat sheet”. Each 
+question may have multiple parts that are related. Answer all questions on the test. Use the blank, 
+reverse pages if necessary. Please make every effort to write your solutions in a neat and legible 
+manner - it enhances your chance of partial credit in case of error! The test is three  (3) hours long 
+and is out of 40 points. Use bullet points for the “discuss- questions” and briefly explain the 
+bullet points … don’t write novels or books, the TA and I seriously appreciate it ! 
+Good Luck ! 
+1.	 (1 p) Three years ago you purchased a bond for $974.69. The bond had three years to 
+maturity, a coupon rate of 8%, paid annually, and a face value of $1,000. Each year you 
+reinvested all coupon interest at the prevailing reinvestment rate shown in the table below. 
+Today is the bond's maturity date. What is your realized compound yield on the bond? 
+Time Prevailing Reinvestment Rate 
+0 (purchase date) 6.0% 
+1 7.2% 
+2 9.4% 
+3 (maturity date) 8.2% 
+A) 6.43% 
+B) 7.96% 
+C) 8.23% 
+D) 8.97% 
+E) 9.13% 
+Ans: D 
+2.	 (1 p) Consider a 5- year bond with a 10% coupon that has a present yield to maturity of 8%. 
+If interest rates remain constant, one year from now the price of this bond will be _______. A) higher 
+B) lower 
+C) the same D) cannot be determined 
+E) $1,000 
+Ans: B 
+3. (0.5 p) A bond will sell at a discount when __________. 
+A) the coupon rate is greater than the current yield and the current yield is greater than 
+yield to maturity 
+B) the coupon rate is greater than yield to maturity 
+C) the coupon rate is less than the current yield and the current yield is greater than the 
+yield to maturity 
+D) the coupon rate is less than the current yield and the current yield is less than yield to 
+maturity 
+E) none of the above are true. 
+Ans: D 
+4.	 (1 p) You purchased an annual  interest coupon bond one year ago with 6 years remaining 
+to maturity at the time of purchase. The coupon interest rate is 10% and par value is 
+$1,000. At the time you purchased the bond, the yield to maturity was 8%. If you sold the 
+bond after receiving the first interest payment and the bond's yield to maturity had changed 
+to 7%, your annual total rate of return on holding the bond for that year would have been 
+_________. 
+A) 7.00% 
+B) 8.00% 
+C) 9.95% 
+D) 11.95% 
+E) none of the above 
+Ans: D 
+5.	 (0.5 p) Which of the following combinations will result in a sharply increasing yield curve? A) increasing expected short rates and increasing liquidity premiums 
+B) decreasing expected short rates and increasing liquidity premiums 
+C) increasing ex pected short rates and decreasing liquidity premiums 
+D) increasing expected short rates and constant liquidity premiums 
+E) constant expected short rates and increasing liquidity premiums 
+Ans: A 
+2
+6.	 (1 p) Given the yield on a 3 year zero- coupon bon d is 7.2% and the spot rates of 6.1% for 
+year 1 and 6.9% for year 2, what must be the forward rate in year 3? 
+A) 7.2% 
+B) 8.6% 
+C) 6.1% 
+D) 6.9% 
+E) none of the above. 
+Ans: B 
+7.	 (1 p) If the rates don’t change, e.g. 2 yr becomes 1 yr, w hat shou ld the purchase price of a 
+2-year zero coupon bond be if it is purchased at the beginning of year 2 and has face value 
+of $1,000? 
+Year 1-Year Forward Rate 
+1 5.8% 
+2 6.4% 
+3 7.1% 
+4 7.3% 
+5 7.4% 
+A) $877.54 
+B) $888.33 
+C) $883.32 
+D) $893.36 
+E) $871.80 
+Ans: A 
+8.	 (0.5 p) The concepts of spot and forward rates are most closely associated with which one of the following explanations of the term structure of interest rates. 
+A) Segmented Market theory 
+B) Expectations Hypothesis 
+C) Preferred Habitat Hypothesis 
+D) Liquidity Premium theory 
+E) None of the above 
+Ans: B 
+9. (2 p) Answer the following questions that relate to bonds. 
+-A 2-year zero- coupon bond is selling for $890.00. What is the yield to maturity of this 
+bond? 
+3
+-The pri ce of a 1 -year zero coupon bond is $931.97. What is the yield to maturity of this 
+bond? 
+-Calculate the forward rate for the second year. 
+-How can you construct a synthetic one -year forward loan  of $ 1’000 (you are agreeing 
+now to loan in one year)? State the strategy and show the corresponding cash flows. 
+Assume that you can purchase and sell fractional portions of bonds. Show all calculations 
+and discuss the meaning of the transactions. 
+Ans: Calculations are shown in the table below. 
+-Calcula tions for YTM of the 2- year zero: N=2, PV= -890.00, PMT=0, FV=1000, i2=6.0. 
+-Calculations for YTM of the 1- year zero: N=1, PV= -931.97, PMT=0, FV=1000, i1=7.3. 
+-Calculations for f 2 : (1.06)2/(1.073) – 1 = .047157502, f2 = 4.7157502% 
+-As shown by the ca lculations below, you purchase enough 2 -year zeros to offset the cost 
+of the 1- year zero. At time 1 the 1- year zero matures and you get $1,000. At time 2 the 2-
+year zeros mature and you have to pay 1.047157502 * $1,000 = $1,047.16. You are 
+effectively borrowing $1,000 a year from now and paying $1,047.16 a year from then. The 
+rate on this forward loan is $1,047.16/$1,000 – 1 = .04716, which equals the forward rate 
+for the second year (f 2). 
+Strategy Cash Flow
+Buy a 1- year zero- coupon bond -$931.97
+Sell 1.047157502 2-year zeros $890.00 * 1.047157502 = $931.97
+Net Cash Flow $0.00 
+10.	 (0.5 p) Identify the bond that has the longest duration (no calculations necessary). 
+A) 20-year maturity with an 8% coupon. 
+B) 20-year maturity with a 12% coupon. 
+C) 15-year maturity with a 0% coupon. 
+D) 10-year maturity with a 15% coupon. 
+E) 12-year maturity with a 12% coupon. 
+Ans: C 
+11.	 (1 p) Given a stock index with a value of $1,000, an anticipated dividend of $30 and a risk -
+free rate of  6%, what should be the value of one futures contract on the index? 
+A) $943.40 
+B) $970.00 
+C) $913.40 
+D) $915.09 
+E) $1000.00 
+Ans: C
+[this question has been cancelled as answer is rationally not obvious]
+4
+12.	 (1 p) You purchased a Treasury bond futures contract on the Chicago Board of Trade 
+(CBOT) at a futures price of 96.10. What would your profit (loss) be at maturity if the 
+futures price increased by 2 points? A) $2,000 loss 
+B) $20 loss 
+C) $20 profit 
+D) $2,000 profit 
+E) None of the above. 
+Ans: D 
+13.	 (0.5 p) Which one of the following statements regarding ""basis"" is not true? A) the basis is the difference between the futures price and the spot price. 
+B) the basis risk is borne by the hedger. 
+C) a short hedger suffers losses when the basis decreases. 
+D) the basis increases when the futures price increases by more than the spot price. 
+E) none of the above. 
+Ans: C 
+14.	 (1 p) Suppose that the risk- free rates in the United States and in the United Kingdom are 
+4% and 6%, respectively. The spot exchange rate between the dollar and the p ound is 
+$1.60/BP. What should the futures price of the pound for a one -year contract be to prevent 
+arbitrage opportunities, ignoring transactions costs. A) $1.60/BP 
+B) $1.70/BP 
+C) $1.66/Bp 
+D) $1.63/BP 
+E) $1.57/BP 
+Ans: E 
+15.	 (0.5 p) Credit risk in the swap market A) is extensive. 
+B) is limited to the difference between the values of the fixed rate and floating rate 
+obligations. 
+C) is equal to the total value of the payments that the floating rate payer was obligated to 
+make. 
+D) a and  c. 
+E) none of the above. 
+5
+Ans: B 
+16.	 (0.5 p) An interest rate floor 
+A) pays the holder in any period that the reference interest rate falls below some limit. 
+B) Is analogous to a sequence of options with the same strike and different maturities. 
+C) is part of a collar. 
+D) both a and b are true. 
+E) all of the above. 
+Ans: E 
+16.	 (0.5 p) The Jensen portfolio evaluation measure A) is a measure of return per unit of risk, as measured by standard deviation. 
+B) is an absolute measure of return over and above that predicted by the CAPM. 
+C) is a measure of return per unit of risk, as measured by beta. 
+D) a and b. 
+E) b and c. 
+Ans: B 
+17.	 (1.5 p) The following data are available relating to the performance of Diamond Stock Fund and  the market portfolio: 
+Fund Market 
+Average Return 18% 14% 
+Standard Deviation of Returns 30% 22% 
+Beta 1.4 1.0 
+Residual standard deviation 
+The risk- free return during the sample period was 6%. 
+Calculate the M2 measure for the Diamon d Fund. 
+A) 4.0% 
+B) 20.0% 
+C) 2.86% 
+D) 0.8% 
+E) 40.0% 
+Ans: D 
+6
+18.	 (0.5 p) The M2 measure was developed by 
+A) Merton and Miller. 
+B) Miller and Miller. 
+C) Modigliani and Miller. 
+D) Modigliani and Modigliani. 
+E) the M&M Mars Company. 
+Ans: D 
+19.	 (2 p) In a particular year, Wiseguys Mutual Fund earned a return of 15% by making the following investments in the following asset classes 
+Weight Return 
+Bonds 10% 6% 
+Stocks 90% 16% 
+The return on a benchmark portfolio w as 10%, calculated as follows: 
+Weight Return 
+Bonds (Lehman Brothers Index) 50% 5% 
+Stocks (S&P 500 Index) 50% 15% 
+The contribution of asset allocation across markets to the total excess return was 
+A) 1% 
+B) 3% 
+C) 4% 
+D) 5% 
+E) none of th e above 
+Ans: C 
+20. (0.5 p) The beta of an active portfolio is 1.20. The standard deviation of the returns on the 
+market index is 20%. The nonsystematic variance of the active portfolio is 1%. The 
+standard deviation of the returns on the active por tfolio is __________. 
+A) 3.84% 
+B) 5.84% 
+C) 19.60% 
+D) 24.17% 
+E) 26.0% 
+Ans: E 
+21. (1 p) Discuss marking to market and margin accounts in the futures market. 
+7
+Ans: When opening an account, the trader establishes a margin account. The margin 
+deposit may be cash or near cash, such as T -bills. Both sides of the contract must post 
+margin. The initial margin is between 5 and 15% of the total value of the contract. The 
+more volatile the asset, the higher the margin requirement. The clearingho use recognizes 
+profits and losses at the end of each trading day; this daily settlement is marking to market, 
+thus proceeds accrue to the trader's account immediately; maturity date does not govern the 
+realization of profits or losses. 
+22. (1.5 p) In an increasingly globalized investment environment, comparability problems 
+become even greater. Discuss some of the problems for the investor who wishes to have an 
+internationally diversified portfolio. 
+Ans: Firms in other countries are not required to prepare financial statement according to 
+U. S. generally accepted accounting principles. Accounting practices in other countries 
+vary from those of the U. S. In some countries, accounting standards may be very lax or 
+virtually nonexistent. Some of the maj or differences are: reserve practices, many countries 
+allow more discretion in setting aside reserves for future contingencies than is typical in the 
+U. S.; depreciation practices, in the U. S., firms often use accelerated depreciation for tax 
+purposes, a nd straight line depreciation for accounting purposes, while most other countries 
+do not allow such dual accounts, and finally, the treatment of intangibles varies considerably across countries. 
+Finally, the problem of obtaining financial information may be considerable for some 
+international investments, varying currency exchange rates present additional 
+complications, translation of statements into English is another complication; potential 
+government expropriation of assets and political unrest may be p roblems in some countries. 
+In general, for the individual investor, investing in global or international mutual funds is a less risky way to add diversification to the portfolio than is attempting to value individual international securities. 
+23. (1 p) Discuss rate anticipation swaps as a bond portfolio management strategy. 
+Ans: Rate anticipation swap is an active bond portfolio management strategy, based on 
+predicting future interest rates. If a portfolio manager believes that interest rates will 
+decline, the manager will swap into bonds of greater duration. Conversely, if the portfolio 
+manager believes that interest rates will increase, the portfolio manager will swap into bonds of shorter duration. This strategy is an active one, resulting in hi gh transactions 
+costs, and the success of this strategy is predicated on the bond portfolio manager's ability 
+to predict correctly interest rate changes consistently over time (a difficult task, indeed). 
+24. (1.5 p) Discuss contingent immunization. Is this form of bond portfolio management 
+strategy an active, passive, or combination of both, strategy? 
+8
+Ans: Contingent immunization is portfolio management technique where the portfolio 
+owner is willing to accept an average annual return over a period of  time that is lower than 
+that currently available. The portfolio manager may actively manage the portfolio until (if) 
+the portfolio declines in value to the point that the portfolio must be immunized in order to 
+earn the minimum average required return. Thus, the portfolio will be immunized 
+contingent upon reaching that level. If that level is not reached, the portfolio will not be 
+immunized, and the average annual returns will be greater than those required. Thus, this 
+strategy is considered to be a co mbination active/passive bond portfolio management 
+strategy. 
+25. (1.5 p) Although the expectations of increases in future interest rates can result in an 
+upward sloping yield curve; an upward sloping yield curve does not in and of itself imply the expectations of higher future interest rates. Explain. 
+Ans: The effects of possible liquidity premiums confound any simple attempt to extract 
+expectation from the term structure. That is, the upward sloping yield curve may be due to 
+expectations of interes t rate increases, or due to the requirement of a liquidity premium, or 
+both. The liquidity premium could more than offset expectations of decreased interest 
+rates, and an upward sloping yield would result. 
+26. (1.5 p) Discuss the three theories of the t erm structure of interest rates. Include in your 
+discussion the differences in the theories, and the advantages/disadvantages of each. 
+Ans: The expectations hypothesis is the most commonly accepted theory of term structure. 
+The theory states that the forward rate equals the market consensus expectation of future 
+short- term rates. Thus, yield to maturity is determined solely by current and expected 
+future one -period interest rates. An upward sloping, or normal, yield curve would indicate 
+that investors anticipate an increase in interest rates. An inverted, or downward sloping, 
+yield curve would indicate an expectation of decreased interest rates. A horizontal yield 
+curve would indicate an expectation of no interest rate changes. 
+The liquidity pref erence theory of term structure maintains that short -term investors
+dominate the market; thus, in general, the forward rate exceeds the expected short -term 
+rate. In other words, investors prefer to be liquid to illiquid, all else equal, and will demand 
+a liquidity premium in order to go long term. Thus, liquidity preference readily explains 
+the upward sloping, or normal, yield curve. However, liquidity preference does not readily 
+explain other yield curve shapes.
+Market segmentation and preferred habitat theories indicate that the markets for different 
+maturity debt instruments are segmented. Market segmentation maintains that the rates for 
+the different maturities are determined by the intersection of the supply and demand curves 
+for the different matu rity instruments. Market segmentation readily explains all shapes of 
+yield curves. However, market segmentation is not observed in the real world. Investors 
+and issuers will leave their preferred maturity habitats if yields are attractive enough on 
+other maturities.
+9
+27. (2 p) Discuss the M2 measure of performance by answering the following questions. Why 
+is M2 better than the Sharpe measure? What measure of risk does M2 use? How do you 
+construct a managed portfolio, P, to use in computing the M2 mea sure? What is the 
+formula for M2 ? Draw a graph that shows how M2 would be measured. Be sure to label 
+the axes and all relevant points. 
+Ans: The Sharpe measure indicates whether a portfolio underperformed the market index, 
+but the difference between the market's Sharpe measure and the portfolio's Sharpe measure 
+is difficult to interpret. M2 uses the same measure of risk as the Sharpe measure – 
+variation in total return, calculated as the standard deviation. For managed portfolio P an 
+adjusted portfo lio P* is formed by combining P with borrowing or lending at the risk- free 
+rate to the point where P* has the same volatility as a market index (M). Then since M and 
+P have the same standard deviation they can be directly compared using the M2 measure. 
+M2 = rP* -rM. If P* outperforms M the measure will be positive, which means the CAL 
+on which P* lies will have a steeper slope than the CML on which M lies. M2 is the distance between the CAL and the CML. The graph should look like the one in Figure 24.2 on page 814. 
+28. (1.5 p) Discuss some of the factors that might be included in a multifactor model of security returns in an international application of arbitrage pricing theory (APT). 
+Ans: Some of the factors that might be considered in a multifac tor international APT
+model are:
+(A) A world stock index
+(B) A national (domestic) stock index
+(C) Industrial/sector indexes
+(D) Currency movements.
+Studies have indicated that domestic factors appear to be the dominant influence on stock 
+returns. However, there is clear evidence of a world market factor during the market crash 
+of October 1987.
+29. (1.5 p) Why are many bonds callable? What is the disadvantage to the investor of a 
+callable bond? What does the investor receive in exchange for a bond  being callable? 
+How are bond valuation calculations affected if bonds are callable? 
+Ans: Many bonds are callable to give the issuer the option of calling the bond in and 
+refunding (reissuing) the bond if interest rates decline. Bonds issued in a hig h interest rate 
+environment will have the call feature. Interest rates must decline enough to offset the cost 
+of floating a new issue. The disadvantage to the investor is that the investor will not 
+receive that long stream of constant income that the bon dholder would have received with a 
+noncallable bond. In return, the yields on callable bonds are usually slightly higher than 
+10
+the yields on noncallable bonds of equivalent risk. When the bond is called, the investor 
+receives the call price (an amount greater than par value). The bond valuation calculation 
+should include the call price rather than the par value as the final amount received; also, 
+only the cash flows until the first call should be discounted. The result is that the investor 
+should be look ing at yield to first call, not yield to maturity, for callable bonds. 
+30. (1.5 p) Discuss some of the accounting comparability problems involved in international 
+investing. 
+Ans: Some of the major accounting comparability problems in international i nvesting are:
+(A) Depreciation. The U. S. allows firms to use different depreciation methods for 
+financial reporting and tax purposes. The use of dual statements is uncommon in other 
+countries.
+(B) Reserves. U. S. standards generally allow lower discretionary reserves for possible 
+losses, resulting in higher reported earnings than other countries.
+(C) Consolidation. Accounting practices in some countries do not call for all subsidiaries 
+to be consolidated in the corporation's income statement.
+(D) T axes. Taxes may be reported as either paid or accrued.
+(E) P/E ratios. There may different practices for calculating the number of shares used to 
+calculate the P/E ratios. For example, firms may use end -of-year shares, year- average 
+shares, or beginning- of-year shares.
+31. (1.5 p) Discuss performance evaluation of international portfolio managers in terms of potential sources of abnormal returns. 
+Ans: The following factors may be measured to determine the performance of an 
+international portfolio m anager.
+(A) Currency selection: a benchmark might be the weighted average of the currency 
+appreciation of the currencies represented in the EAFE portfolio.
+(B) Country selection measures the contribution to performance attributable to investing in 
+the better -performing stock markets of the world. Country selection can be measured as 
+the weighted average of the equity index returns of each country using as weights the share 
+of the manager's portfolio in each country.
+(C) Stock selection ability may be me asured as the weighted average of equity returns in 
+excess of the equity index in each country. 
+(D) Cash/bond selection may be measured as the excess return derived from weighting 
+bonds and bills differently from some benchmark weights. 
+32. (2 p) Aunt G unda holds her portfolio 100% in U.S. securities. She tells you that she 
+believes foreign investing can be extremely hazardous to her portfolio. She's not sure 
+about the details, but has “heard some things”. Discuss this idea with Aunt Gunda by 
+11
+listing three objections you have heard from your clients who have similar fears. Explain 
+each of the objections is subject to faulty reasoning. 
+Ans: A few of the factors students may mention are 
+-Client: “The U.S. markets have done extremely well in the pa st few years, so I should 
+stay 100% invested in them.” Your Reply: You can explain that there are other times when 
+foreign markets have beat the U.S. substantially in performance. You can't tell easily 
+beforehand what markets will do the best. It is important to consider that there are many 
+times when countries' markets move in different directions and you can buffer your risk to 
+some extent by investing globally. 
+-Client: “You should keep your money at home.” Your Reply: Don't confuse familiarity 
+with good portfolio management. Even though there is a lot of information available on 
+U.S. companies, it can be difficult to use the information to make good forecasts. Most 
+professional managers aren't even good at this. 
+-Client: “There's too much curre ncy risk.” Your Reply: It is true that there may be times 
+when both a security's value in its own currency and the currency exchange rate may lead to poor returns. But the opposite is also true. And there are cases when security price 
+movements and curr ency movements will have opposite impacts on your portfolio's return. 
+This may have a smoothing effect on your portfolio. 
+-Client: “Invest with the best.” Your Reply: Even if U.S. markets have been the best 
+performers in recent periods there is no guar antee that things will stay that way. If you 
+diversify internationally you will benefit when other markets take the lead. 
+33. (1.5 p) Define and discuss the Sharpe, Treynor, and Jensen measures of portfolio 
+performance evaluation, and the situations in which each measure is the most appropriate 
+measure. 
+Ans: Sharpe's measure, (rP -rf)/sP, is a relative measure of the average portfolio return in 
+excess of the average risk- free return over a period time per unit of risk, as measured by the 
+standard de viation of the returns of the portfolio over that time period.
+Treynor's measure, (rP -rf)/bP, is a relative measure of the average portfolio return in 
+excess of the average risk- free return over a period of time per unit of risk, as measured by 
+the beta of the portfolio over that time period.
+Jensen's measure, aP = rP -[rf + bP(rM -rf)], is a measure of absolute return (average 
+return on the portfolio over a period of time) over and above that predicted by the CAPM. 
+As the risk measure in the Sha rpe measure of portfolio performance evaluation is total risk, 
+this measure is appropriate for portfolio performance evaluation if the portfolio being 
+evaluated represents the investor's complete portfolio of assets. 
+As the risk measure in the Treynor measure of portfolio performance evaluation is beta, or 
+systematic risk, this measure is the appropriate portfolio performance evaluation measure if 
+the portfolio being evaluated is only a small part of a large investment portfolio. This 
+12
+measure is also a ppropriate for evaluation of managers of ""subportfolios"" of large funds, 
+such as large pension plans. 
+As the Jensen measure, or Jensen's alpha, measures the return of a portfolio relative to that 
+predicted by the CAPM, this measure is appropriate for t he evaluation of managers of 
+""subportfolios"" of large funds. However, the Treynor measure is an even better measure 
+for such a scenario. 
+34. (1 p) Explain why mean -variance analysis is inadequate for valuing market timing. 
+Ans: The mean -variance approach relies on those two statistics to determine whether a 
+portfolio earned an appropriate return relative to other portfolios. But when dealing with a 
+perfect market timer the standard deviation is not relevant. The perfect timer will move in 
+and out of the market as appropriate to earn the most favorable rate of return. Even when 
+the market is riskier, as measured by standard deviation, it will be appropriate to be in the market if the returns are suitable. The other factor that is involved is skewne ss. A perfect 
+market timer works with portfolios that are not normally distributed, but are skewed to the 
+right. The skewness parameter is not incorporated into mean -variance analysis. 
+35. (1 p) What is an Exchange -traded fund? Give two examples of specific ETFs. What are 
+some advantages they have over ordinary open -end mutual funds? What are some 
+disadvantages? 
+Ans: ETFs allow investors to trade index portfolios. Some examples are spiders (SPDR), 
+which track the S&P500 index, diamonds (DIA), which track the Dow Jones Industrial Average, and qubes (QQQ), which track the Nasdaq 100 index. Other examples are listed 
+in Table 4 -3, page 117. (It is anticipated that there may soon be ETFs that track actively 
+managed funds as well ad the current ones that track indexes.) 
+Advantages -
+1. ETFs may be bought and sold during the trading day at prices that reflect the current value of the underlying index. This is different from ordinary open -end mutual funds, 
+which are bought or sold only at the end of  the day NAV. 
+2. ETFs can be sold short. 
+3. ETFs can be purchased on margin. 
+4. ETFs may have tax advantages. Managers are not forced to sell securities from a 
+portfolio to meet redemption demands, as they would be with open -end funds. Small 
+investo rs simply sell their ETF shares to other traders without affecting the composition of 
+the underlying portfolio. Institutional investors who want to sell their shares receive shares 
+of stock in the underlying portfolio. 
+5. ETFs may be cheaper to buy than mutual funds because they are purchased from 
+brokers. The fund doesn't have to incur the costs of marketing itself, so the investor incurs 
+lower management fees. 
+13
+Disadvantages -
+1. ETF prices can differ from NAV by small amounts because of the way they  trade. This 
+can lead to arbitrage opportunities for large traders. 
+2. ETFs must be purchased from brokers for a fee. This makes them more expensive than 
+mutual funds that can be purchased at NAV. 
+14
+",True,True,1,1,0,False,1,False,True,True
+24,1-018j-ecology-i-the-earth-system-fall-2009,"Name: ____________________ Page 1 
+Ecology 1.018J/7.30	 Quiz 1 October 2, 2008 
+Please put your name on every page!
+Space is provided for your answers; if you need more room, use the back of the *same* page. 
+This exam is worth 100 points, with an additional 6 points of bonus problems. 
+The number of points assigned to each ques tion roughly corresponds to the amount of time you 
+should spend answering it. 
+Equations that may come in handy 
+n = # e-transferred per mole of reductant 
+ΔE0’ = E0’(oxidizing agent) -E0’(reducing agent) ΔG0’ = -nF(ΔE0’) 
+F = Faraday constant (23 kcal V-1 mol-1) 
+ΔG’ = ΔGo’ + RT ln ([C]c[D] d/[A] a[B]b) T = Temperature (K)
+R = gas constant (8.31 joules degree-1 mol-1)
+ aA +bB cC +dD 
+*A table of standard reduction potentials may be found on the last page of the exam. 
+1. (9 Points) As you know, a group of organisms catalyze the oxidation of N compounds using 
+either organic or inorganic carbon as their carbon source: 
+NH4+ → NO2-→ NO3– (uses inorganic carbon) 
+while others catalyze their reduction:
+NO3– → NO2-→ N2O → N2 (uses organic carbon)
+(i)	(2 Points) What are each of these processes called? 
+Nitrification (oxidation) carried out by nitrifying bacteria
+Denitrification (reduction) carried out by denitrifying bacteria
+(ii)	(2 Points) What is the “metabolic classification” of organisms that carry each of these 
+processes out? List the carbon source and the redox transformation of carbon for each 
+of the processes. 
+nitrifying bacteria: chemosynthetic bacteria (aerobic autotrophs) oxidize ammonium and 
+reduce CO2. 
+denitrifying bacteria: anaerobic respiration (heterotrophs) reduce nitrate and oxidize 
+organic carbon 
+(iii) (5 Points) How can each group of microbes “make a living” by doing essentially opposite 
+things ? That is, how does each process benefit the organism that catalyzes it? 
+Nitrifying bacteria use energy from the oxidation of nitrogen compounds to reduce CO2 
+to organic carbon, which they then use as their carbon source. Denitrifying bacteria get 
+their energy and carbon from the organic compounds produced by autotrophs. They 
+oxidize organic compounds to CO2 for energy, using NO3-or NO2-as a final electron 
+acceptor. 
+2. Answer the following questions “True” or “False” (1 Point Each). 
+___F___ The limiting factor for productivity in an ecosystem is always the element that is in 
+lowest concentration.
+___T___ Net community production of an ecosystem can never be greater than net primary
+production.
+____F__ N-limited lakes will often be very clear because nothing can grow in them since they 
+are so nutrient poor. 
+____F__ Chlorophyll concentrations are maximal at the surface of the ocean where light
+intensity is greatest.
+___T___ The amount of gross primary production in a forest is equal to the amount of carbon 
+from CO2 fixed by photosynthesis of plants and bacteria in the forest. Name: ____________________ Page 2 
+3. (14 Points) D. J. Des Marais diagrammed the history of the Earth as a clock in units of 
+billions of years ago (b.y.a.) (Science 289: 1703(2000)). A simplified version of this clock is 
+reproduced below. The following questions refer to parts of the graph labeled with letters. 
+(i) (1 Point) What appeared on Earth at “A”? 
+Life 
+(ii) (2 Points) What atmospheric event occurred at “B”? How did it affect life at that time? 
+The Great Oxygenation Event. Oxygen was toxic to many life forms, so they had to 
+adapt. 
+(iii) (2 Points) Describe the Earth’s atmosphere at the highlighted region “C”. What major 
+gases were present? 
+The Earth’s atmosphere was reducing. Methane, carbon dioxide, reduced forms of 
+nitrogen, etc., were present. Oxygen was absent. 
+(iv) (3 Points) Describe the Earth’s atmosphere at “D”. What factors led to the differences 
+between the Earth’s atmosphere between “C” and “D”? 
+The Earth’s atmosphere was similar to today’s with ~21% oxygen. The differences were 
+caused by the “great oxygenation event” and the emergence of photosynthesis. 
+(v) (1 Point) Draw, based on this approximate scale, when on this “clock” humans appeared 
+on Earth. 
+(vi) (5 Points) Your friend, a geologist, wants your help investigating an ancient rock with 
+curious banding and circular patterns. He has already demonstrated that the banding is 
+not iron. What point on this graph represents the time the rock might be from? How 
+would you test the origins of the patterning? What results would prove your hypothesis? 
+The rock might be from Point A, the origins of life. The banding could represent an 
+ancient stromatolite fossil. You could test the biological origins of life by looking at stable 
+isotope fractionation. Specifically, you could look at δ13C: if the ratio was lower than 
+expected (i.e. the material is isotopically “lighter”), the material is probably of biological 
+origin. Name: ____________________ Page 3 
+4. (11 Points) The graphs below describe the physical structure of two temperate lake 
+ecosystems. I0=incident light intensity on the water surface. 
+Temperature Log I0 
+1% I0 Depth Temperature Log I0 
+1% I0Depth A B 
+(i)	(1 Point) Label zc, the compensation depth. 
+(ii)	(2 Points) Based on this information, which lake would you expect to produce the most 
+phytoplankton and why? 
+Lake A would have the most phytoplankton because the cells never mix below the 
+compensation depth, and thus photosynthesis is always greater than respiration. 
+(iii) (3 Points) Sketch on each of the graphs how you might expect the dissolved oxygen 
+concentration to vary with depth, and why?. 
+It would be even in the mixed layer, and decrease below that. Probably more in the 
+most productive lake, but you are going to have to be liberal in how you grade this. 
+(iv) (5 Points) Were these profiles measured in the summer or winter? Why? How would 
+they differ if they had been measured six months earlier? (It may help you to diagram 
+your response.) 
+The profiles were measured in the summer because a thermocline is evident. 
+Thermoclines are thermal stratifications caused by warming of surface waters due to the 
+absorption of sunlight. If the profiles were measured in the winter, light attenuation 
+would be the same, but the thermal profile would be a straight line. Name: ____________________ Page 4 
+5.	(10 Points) In your readings, Morton wrote: “All over the world, by day and night, animals and 
+bacteria and fungi and the plants themselves are using the oxygen which photosynthesis 
+spits out into the atmosphere to turn organic material back into carbon dioxide and water. In 
+so doing, they regenerate the energy the plants stored away. The two processes come close 
+to canceling each other out. Today, though, things are out of balance. Today is a spring 
+day...” 
+(i)	(2 Points) Complete this thought with three sentences or more of your own to explain what 
+is “out of balance”. 
+In spring, plants are growing, so plants must photosynthesize more than they respire in 
+order to make biomass. There is a draw down in CO2 from the atmosphere as 
+photosynthesis fixes more carbon from the atmosphere than respiration respires. This 
+means that the whole cumminity is adding carbon (energy) in the spring, and the NCP will 
+be positive. 
+(ii) (2 Points) What are the animals, bacteria and fungi “using the oxygen” for? 
+They are using oxygen as a terminal electron acceptor to oxidize organic carbon to use it 
+as energy 
+(iii) (2 Points) If the two processes Morton describes do “cancel each other out”, can NPP still 
+be positive? Justify your answer. 
+Yes. NPP is GPP-Ra. This term could still be positive (the plants themselves could keep 
+growing), even if the overall NCP is zero because of the respiration of heterotrophs. 
+(iv) (2 Points) Over Earth’s history, have these processes always canceled each other out? 
+Explain your answer. 
+No. The oxygenation of the Earth’s atmosphere occurred because the process of 
+photosynthesis far outstripped the process of respiration on the global scale leading to an 
+increase in oxygen in the atmosphere and leading to organic carbon being stored below 
+ground in the form of “ancient photosynthetically fixed carbon” 
+(v)	(2 Points) Morton talks about “Eating the Sun.” Explain what he means by this. 
+He means that photosynthesis uses light energy to convert CO2 into reduced organic 
+carbon compounds (sugars) which are either used by the plants own respiration or used 
+as the energy source in heterotrophic respiration, including our own. This means that the 
+energy used for the life of heterotrophs originally came in the form of light from the Sun. Name: ____________________ Page 5 
+6. (17 Points) Inspired by Priestley’s experiment involving a mouse, a plant, and a glass jar, you 
+decide to build a self-sustaining closed system containing goldfish and aquatic plants. 
+(i) 	(3 Points) What roles do the plants and fish play in your mini-ecosystem? How do they 
+depend on one another? 
+The plants are the primary producers (autotrophs) , fixing CO2 and releasing oxygen. 
+The fish are the Heterotrophs, consuming O2 to break down the products of the plants. 
+The two organisms complement each other by cycling carbon and oxygen back and forth 
+between them. 
+(ii) 	(6 Points) Before you seal off the system, you decide to do some tests to make sure your 
+system will be balanced, i.e. the mix of fish and plants is adequate. You do this by 
+temporarily placing the different components of your system int o sealed containers and 
+measuring the O2 concentration for three hours in the light and three hours in darkness. 
+On the axes below, sketch 3 graphs of the change in O2 over time that you expect to see 
+for the aquatic plants alone, the goldfish alone, and the aquatic plants and goldfish 
+combined. Assume you are using sterile water. O2 Concentration
+(pg O2 L-1) 
+Light Dark
+Time (hours)
+(iii) (6 Points) Explain the features of your graphs . 
+(iv) (2 Points) You decide you are ready to assemble the final system, but you are very tired 
+from all of your problem sets and accidentally fill the container with water from the 
+Charles River and leave it in the dark overnight. The next day, though your plant looks 
+healthy, your fish is floating upside down. You know the water does not have 
+anthropogenic toxins in it, because you just read a water quality report from the MDC. 
+What do you hypothesize as the cause of death of the fish and why? 
+The Charles River water had a lot of organic matter and microbes decomposing it. The 
+microbes used up all the oxygen and the fish suffocated. Name: ____________________ Page 6 
+7. (16 Points) You are a limnologist studying several lakes in northern Ontario. The lakes have 
+little input of nutrients from streams. You measure the concentrations of nitrate and 
+phos phate every two months, and generate the following data. All units are in µg/L 
+concentration. Using the graph paper provided below may help you answer the question. 
+Trout Lake Big Lake Lake Balance 
+NO3 -PO 4 3-NO3 -PO 4 3-NO3 -PO 4 3-
+January 149 8 140 10 143 9 
+March 113 6 113 9 128 8 
+May 97 5 41 4 63 4 
+July 37 1 5 2 31 2 
+September 51 2 26 3 16 1 
+November 133 7 83 7 92 6 
+04080120160
+0510Name: ____________________ Page 7 
+(i) (6 Points) Which lake is limited by the availability of P? By the availability of N? Explain 
+your answer. 
+P-limited: Trout Lake – because the intercept is on the y axis… indicating that when P 
+runs out, there is still N in the lake. 
+N-limited: Big Lake – because the intercept is the P axis 
+The Redfield Ratio for N:P is 16:1. Whenever the ratio exceeds 16 (as in Trout Lake), 
+phos phorous is limiting. When the ratio is less than 16, nitrogen is limiting. 
+(ii) (4 Points) In which lake do you expect more blue-green algae (cyanobacteria)? Why? 
+More cyanobacteria would be present in Big Lake because it is N-limited. Cyanobacteria 
+are capable of fixing nitrogen, so they would have a competitive advantage over other 
+algae in a nitrogen-limited system. (See in-class example of Lake Washington). 
+(iii) (3 Points) A resort-house development is proposed to be built around Lake Balance 
+leading to the use of large numbers of septic systems around the lake. (Septic systems 
+leach nitrogenous compounds into the groundwater, and the groundwater ultimately 
+carries them to the lake). Would Lake Balance start to look more like Trout Lake or Big 
+Lake over time? 
+Lake Balance would start to look more like Trout Lake because Trout Lake is P-limited. 
+The septic systems are leaching nitrogen-bearing compounds into the water, making 
+Lake Balance enriched in nitrogen with respect to phos phorous. 
+(iv) (3 Points) The development goes ahead, and the concentrations of NO3 in Lake Balance 
+skyrocket. At the same time, the housing developments around the lake began to leach 
+sewage into the lake, increasing its P supply. What might happen to the oxygen 
+concentrations in the deep waters of Lake Balance over time and why? What is this 
+process called? 
+Oxygen concentrations will decline, especially in the deep waters of the lake. The added 
+nutrients cause blooms of algae, which increase the primary productivity of the lake. 
+When the algae die, they sink towards the bottom and are decomposed by heterotrophs, 
+which consume oxygen as they decompose the organic carbon produced by the algae. 
+This is Cultural Eutrophication, 
+Bonus (1 Point): To mitigate the effects of the added nitrate from sewage coming from the 
+new homes surrounding Lake Balance, the local wastewater treatment authority proposes 
+an innovative solution. Rather than trying to install a sewer system ac ross the entire, 
+remote area, they propose using denitrifying bacteria to convert the nitrate in groundwater 
+to nitrogen gas. They set up an anaerobic ground system a nd test it. Initially they find 
+that there are fast rates of denitrification, but these rates soon slow down. There is still a 
+lot of nitrate to be reduced and the environment is still anaerobic. What would you 
+recommend adding to the system to help spur further denitrification? 
+Organic carbon Name: ____________________ Page 8 
+8. (8 Points) Given the following data from an Experimental Forest, answer the following 
+ques tions. Show your work and units. 
+Total vegetative biomass 80,000 kcal m-2 
+Detritus and organic matter in soil 120,000 kcal m-2 
+Total Gross Primary Productivity 20,000 kcal m-2 yr -1 
+Total Plant Respiration 5,000 kcal m-2 yr -1 
+Total Community Respiration 9,000 kcal m-2yr -1 
+(i) (2 Points) What is the net primary productivity of the forest? 
+NPP = GPP – RA = 20,000 – 5,000 = 15,000 kcal m-2 yr -1 
+(ii) (2 Points) What is the net community production? 
+NCP = GPP – RA – RH = 20,000 – 9000 = 11,000 kcal m-2 yr -1 
+(iii) (2 Points) What is the mean residenc e time of carbon in the vegetative biomass? 
+MRT = biomass / NPP = 80,000/15,000 = 5.3 years 
+(iv) (2 Points) Is this a fully mature forest? Explain your answer. 
+no. NCP > 0 
+9. (8 Points) You are a microbe and you go to the store where they are having a sale on 
+elemental sulfur. You are thinking about buying some elemental sulfur to consume to make 
+energy. There’s plenty of sulfur, but you need to buy something to go with it. All that’s left at 
+the store besides sulfur is nitrate (NO3-) and succinate. You do have the recipe (i.e. genes) to 
+convert NO3-to N2 gas and to convert S to SO42-. You also have a recipe to convert S to H2S 
+and succinate to fumarate. Assume you can buy and react one mole of each in standard 
+conditions. Should you buy the NO3-or the succinate if your goal is to maximize the amount 
+of energy produced from one mole of sulfur? 
+1) SO42-+ 8H+ +6e--> S0 + 4H2O -0.20V
+2) NO3-+ 6H++ 6 e--> 1/2N2 + 3H2O +0.75V
+3) fumarate+ 2 H+ +2esuccinate = +0.031V
+4) S + 2 H+ +2e--> H2S -0.243 V
+For the coupled sulfur oxidation and denitrification:
+dE=0.75-(-0.20)= 0.95 E
+dG=-8*93.67*0.95= -711.892 kj/mol
+For the coupled sulfur reduction and fumarate oxidation
+dE=-0.243-(0.031)= -0.274 E
+dG=-2*93.67*-0.274= 51.33kJ/mol
+You should buy the nitrate. Name: ____________________ Page 9 
+Bonus Problem (up to 5 points): 
+The Peak District Moorlands in the United Kingdom store 20 million tonnes of carbon, almost 
+half of the carbon stored in the soils of the entire United Kingdom (the Moorlands are only 8% 
+of the land area). In pristine condition, these peatlands can store an additional 13,000 tonnes 
+of carbon per year. 
+(i)	Given this rate of productivity, how long did it take for the Peatlands to sequester this 
+much carbon? 
+20,000,000 tonnes C / 13,000 tonnes C yr-1 = 1538 years 
+(ii)	What is the effective residence time of the carbon that makes it into long-term storage in 
+the peatland if no disturbance occurs? (Note: this is not a calculator problem!) 
+Theoretically, infinite: the net community productivity is stored in peat indefinitely. 
+(iii) The Peak District Moorlands store carbon because they are saturated with water. Based 
+on your knowledge of terminal electron acceptors and their efficiencies, why would this 
+inhibit/slow respiration? 
+Oxygen is the best electron acceptor, but in a saturated wetland anaerobic conditions 
+prevail. Therefore, organisms experience slower rates of respiration because they grow 
+more slowly using “poorer” metabolic pathways. 
+(iv) One prediction of climate change models is a reduction in rainfall in England. This would 
+transform the Moorlands into a carbon source, emitting up to 381,000 tonnes of carbon 
+per year. How many years would it take to respire all the carbon stored in the Peak 
+District Moorlands? 
+20,000,000 tonnes C / 381,000 tonnes C yr-1 = 52.5 years!!!! - -Name: ____________________ Page 10 
+Table 1. 
+Standard reduction potential (E0') values (at 25ºC and pH 7) 
+Half-Reaction Eo' (V) 
+1/2 O2+2 H++2 e-⇒ H2O +0.816 
+Fe3+ + e -⇒ Fe2+ +0.771 
+-NO3 +5H++6e-⇒ ½ N2 + 3 H2O +0.75
+NO3 +2H++2e-⇒ NO2 + H2O +0.421
+-NO3 +10H++8e-⇒ NH4+ + 3 H2O +0.36 
+NO2-+8 H++6 e-⇒ NH4+ + 2 H2O +0.34 
+CH3OH+2 H++ 2 e-⇒ CH4 + H2O +0.17 
+fumarate + 2 H++2 e-⇒ succinate +0.031 
+2 H++2 e-⇒ H2 (pH 0) +0.00 
+oxaloacetate + 2 H++ 2 e-⇒ malate -0.166 
+CH2O+2 H++ 2 e-⇒ CH3OH -0.18 
+pyruvate +2 H++2 e-⇒ lactate -0.185 
+acetaldehyde + 2 H+ + 2 e-⇒ ethanol -0.197 
+SO42-+8 H++ 6 e-⇒ S + 4 H2O -0.20 
+SO42-+10 H++ 8 e-⇒ H2S + 4 H2O -0.21 
+FAD+2 H++2 e-⇒ FADH2 -0.219 
+CO2+8 H++ 8 e-⇒ CH4 + 2 H2O -0.24 
+S+2 H++2 e-⇒ H2S -0.243 
+N2+8 H++6 e-⇒ 2 NH4+ -0.28 
+NAD++H++2 e-⇒ NADH -0.320 
+NADP++H++2 e-⇒ NADPH -0.324 
+2 H++2 e-⇒ H2 (pH 7) -0.414 
+CO2+4 H++ 4 e-⇒ 1/6 glucose + H2O -0.43 
+Fe2+ +2 e-⇒ Fe -0.85 MIT OpenCourse Ware 
+http://ocw.mit.edu 
+1.018J / 7.30J Ecology I: The Earth 
+Fall 2009 
+For informati on about citing these mate rials or our Terms of Use, visit: http://ocw.mit.edu/term s. ",True,True,1,1,0,True,1,False,True,True
+25,1-018j-ecology-i-the-earth-system-fall-2009,"- -Name: ____________________ Page 1 
+1.018/7.30J Ecology 1 Quiz #1 October 8, 2009 
+Please put your name on every page! Space is provided for your answers; if you need more 
+room, use the back of the same page. This exam is worth 100 points, with an additional 4 points 
+of bonus problems. You have 80 minutes to work on it and the value of each question is roughly 
+proportional to the amount of time you should spend answering it. The test will begin at 11:05am 
+and promptly end at 12:25pm. 
+Mean = 74.4, Standard Deviation = 10.1 
+Useful Equations and Information 
+n = # e-transferred per mol of reductant 
+ΔEo’ = Eo’(oxidizing agent) – Eo’(reducing agent) ΔGo’ = -nF(ΔEo’) 
+F = Faraday constant (96.5 kJ V-1 mol-1) 
+ΔG’ = ΔGo’ + RT ln(([C]c [D]d) / ([A]a [B]b)) T = Temperature (K)
+R = gas constant (8.31 J K-1 mol-1)
+ aA + bB cC + dD 
+Standard reactants: 1 M, 1 atm, 25°C (298 K) 
+Table 1. Standard reduction potential (Eo’) values (at 25oC and pH 7) 
+Half-Reaction Eo’ (V) 
+-NO2 +4H++3e-⇒ ½ N 2 + 2 H2O +0.956 
+½ O 2 + 2 H+ + 2 e-⇒ H2O +0.816 
+Fe3+ + e -⇒ Fe2+ +0.771 
+-NO3 +6H++6e-⇒ ½ N 2 + 3 H2O +0.75 
+NO3 +2H++2e-⇒ NO2 + H2O +0.421 
+-NO3 +10H++8e-⇒ NH4+ + 3 H2O +0.36 
+NO2-+8 H++ 6 e-⇒ NH4+ + 2 H2O +0.34 
+CH3OH + 2 H++ 2 e-⇒ CH4 + H2O +0.17 
+fumarate +2 H+ +2 e-⇒ succinate +0.031 
+2 H+ +2 e-⇒ H2 (pH 0) +0.00 
+oxaloacetate + 2 H++ 2 e-⇒ malate -0.166 
+CH2O + 2 H+ + 2 e-⇒ CH3OH -0.18 
+pyruvate +2 H+ +2 e-⇒ lactate -0.185 
+acetaldehyde + 2 H+ + 2 e-⇒ ethanol -0.197 
+SO42-+8 H+ + 6 e-⇒ S + 4 H2O -0.20 
+SO42-+10 H+ +8 e-⇒ H2S + 4 H2O -0.21 
+FAD + 2 H+ + 2 e-⇒ FADH2 -0.219 
+CO2 + 8 H+ + 8 e-⇒ CH4 + 2 H2O -0.24 
+S +2 H+ +2 e-⇒ H2S -0.243 
+½ N 2 + 4 H+ + 3 e-⇒ NH4+ -0.28 
+NAD++ H+ + 2 e-⇒ NADH -0.320 
+NADP+ +H+ + 2 e-⇒ NADPH -0.324 
+2 H+ +2 e-⇒ H2 (pH 7) -0.414 
+CO2 + 4 H+ + 4 e-⇒ 1/6 glucose + H2O -0.43 
+Fe2+ + 2 e-⇒ Fe -0.85 Name: ____________________ Page 2 
+1. (25 points) You are hired to develop and operate a wastewater treatment plant for a fertilizer 
+company that produces an effluent high in ammonium. You are given two choices for breaking 
+down ammonium: 
+-NH4+ + O2 NO2 (1) 
+-NH4+ + NO2 N2+2H2O (2) 
+a. Write the four half-reactions associated with processes (1) and (2). 
+½ O2 +2 H+ + 2 e-H2O 
+-NH4+ +2 H2O NO2 +8H++6e-
+-NO2 +4H++3e-½ N2 +2 H2O 
+NH4+ ½ N2 +4 H+ + 3 e-
+b. Identify the reducing agent in process (1) and the substance that is being reduced in (2). 
+-NH4+, NO2 
+c. Assume that you can extract all of the free energy produced by these reactions and you want to 
+maximize your energy yield (under standard conditions). Which process would you choose? 
+Show your work. 
+½ O2 +2 H+ + 2 e-H2O ΔEo’ = +0.816 V – 0.340 V = 0.476 V 
+-NH4+ +2 H2O NO2 +8H++6e-ΔGo’ = -6 * 96.5 kJ V-1 mol-1 * 0.476 V = -275.6 kJ mol-1 
+-NO2 +4H++3e-½ N2 +2 H2O ΔEo’ = +0.956 V + 0.280 V = 1.236 V 
+NH4+ ½ N2 +4 H+ + 3 e-ΔGo’ = -3 * 96.5 kJ V-1 mol-1 * 1.236 V = -357.8 kJ mol-1 
+d. After you turn on your wastewater treatment plant, you find that you’re not getting as much 
+energy as you thought you would. Recall that your above calculations are based on standard 
+conditions of 1 M for solutes and 1 atm for gases. You meas ure the NH4+ concentration and find 
+that it is only 0.01 M. Using your selected process, what would you expect your energy yield (1 
+atm, 298 K) to be? 
+ΔGo’ = -357.8 kJ mol-1 + 0.00831 kJ K-1 mol-1 * 298 K * ln(([1]1 * [1]2) / ([0.01]1 * [1]1)) = 
+-346.4 kJ mol-1 
+BONUS (2 points): Identify the commo n names of processes (1) and (2) 
+Nitrification, Anaerobic Ammonium Oxidation (Anammox) or Denitrification 
+2. (25 points) Jonathan and Skylar are trying to recreate the Early Earth experiment of Miller and 
+Urey. They decide to use some air from outside Building 48, put it in a reaction chamber and 
+apply sparks. To Jonathan and Skylar’s surprise, their results don’t match up with those of Miller 
+and Urey. 
+a. Describe what the air that Jonathan and Skylar added to their tank was composed of (rough 
+proportions of major gases). 
+78% nitrogen, 21% oxygen, trace amounts of other gases. Name: ____________________ Page 3 
+b. Describe which gases Miller and Urey used (i.e. the gases of the early atmosphere) and explain 
+what the Miller-Urey experiment found. 
+Methane (CH4), ammonia (NH3), molecular hydrogen (H2), and water (H2O). By adding a spark 
+(to simulate lightning), Miller and Urey created amino acids from simple organic molecules 
+formed in the gas mixture (e.g. hydrogen cyanide and formaldehyde). 
+c. Why was the early atmosphere more conducive to the success of this experiment? Hint: you 
+should mention the properties of the gases in parts (a) and (b). 
+The early atmosphere, whether that described by Miller and Urey or in different proportions, did 
+not have oxygen. This lack of oxygen in the Earth’s early atmosphere prohibited the formation of 
+complex molecules. The Miller-Urey model is of a “reducing” atmosphere. 
+d. The “Great Oxygenation Event” is one of the most important, yet poorly understood, events in 
+the Earth’s history. Scientists use various indicators in the geologic record to determine when and 
+why this occurred. Please check the boxes beside the factors that may be helpful in determining 
+when the oxygenation of Earth’s atmosphere occurred. 
+x Charcoal record to indicate large fires 
+Nitrogen concentrations derived from ice cores 
+Deep ocean crust patterns 
+x Reco rd of fossilized phytoplankton 
+Mass-independent fractionation (MIF) of sulfur isotopes x 
+Red banding in sedimentary geologic formations x 
+Fossil record of early eukaryotes 
+e. Emily and Kate were studying for 1.018 on flashcards, but they left the window open and the 
+cards became disordered. Please number the following events in the order that they occurred. 
+Macroscopic 
+Eukaryotes Cyanobacteria Algal 
+Kingdoms Vascular 
+Plants 
+Phototrophic 
+Bacteria Life Mammals Shelled 
+Invertebrates 4 7 
+6 8 1 3 5 
+2 
+3. (25 points) In the aquatic ecosystem pictured below: (A) is the amount of CO2 reduced to 
+organic carbon by phytoplankton; (B) is the amount of CO2 reduced to organic carbon by rooted 
+aquatic plants; (C) is the amount of organic carbon respired by phytoplankton; (D) is the amount 
+of organic carbon respired by rooted aquatic plants; (E) is the respiration of the zooplankton, 
+bacteria, and fish in the water; and (F) is the respiration of the mud-dwelling organisms and 
+bacteria. 
+A B C D E F Name: ____________________ Page 4 
+a. For the whole ecosystem, write the equations (using the letters describe above) for: 
+Gross Primary Production Net Primary Production Net Commu nity Production 
+A + B A + B – C – D A + B – C – D – E – F 
+b. A = 200,000 g C year-1; B = 20,000 g C year-1; C = 50,000 g C year-1; D = 50,000 g C year-1; 
+Net Commu nity Production = 2000 g C year-1; and Mean Residence Time = 0.15 years. Find the 
+total biomass of the ecosystem. Show your work and state any assumptions made. 
+MRT = Biomass/NPP 
+NPP = 200,000 g C + 20,000 g C – 50,000 g C – 50,000 g C =120,000 g C 
+Biomass = MRT * NPP 
+Biomass = 0.15 year * 120,000 g C year-1 = 18,000 g C 
+c. You want to measure the productivity of a sample of surface water from the Charles River. At 
+9 am you collect two 500 mL bottles of water, one completely opaque and one clear, meas ure 
+their O2 content, seal them, and leave them in the river. 8 hours later you retrieve your samples 
+and measure their O2 content (total amount of O2 in the 500 mL sample). Calculate the GPP in 
+g C hour-1 of your water sample. The molecular weight of C is 12 g mol-1 and O2 is 32 g mol-1. 
+Time Opaque Clear 
+9am 1.0 mol O2 1.0 mol O2 
+5pm 0.37 mol O2 1.23 mol O2 
+Gross O2 produced = |clear ΔO2| + opaque ΔO2 
+6 CO2 + 12 H2O + Light C6H12O6 +6 O2 + 6 H2O 
+For every 1 mole of O2 produced 1 mole of C is fixed. 
+GPP = (0.23 mol O2 + 0.63 mol O2) * 1 mol C / 1 mol O2 *12 g mol-1 / 8 hours = 1.29 g C hour-1 
+d. You now want to measure the productivity of the open ocean. Would you use the same 
+method? If not, briefly describe the technique you would use. 
+Because the productivity of a sample taken from the open ocean is so low, you could not use the 
+ΔO2 technique. Even after days of incubation, there would be no discernable change in O2. 
+Instead, you would use the 14C technique. This method uses radiolabeled CO2 to track the uptake 
+of CO2 into organisms. By measuring the amount of 14CO2 reduced to 14C6H12O6 and 12CO 2 
+available, as well as knowing the amount of 14CO2 added, the total amount of 12CO2 reduced to 
+C6H12O6 can be determined. 
+e. The figure below describes the change in above-ground net primary production with age for a 
+stand of white spruce (Ryan et al. 1997). Explain how GPP and RA change over time by 
+sketching them on the graph. Explain the trends below. Name: ____________________ Page 5 
+GPP 
+RA 
+GPP – Gross primary productivity increas es until about year 70, and then levels off or decreases. 
+At this point the forest has fully matured and photosynthesis is limited (or reduced) by some 
+factor (e.g. nutrients, light, water). 
+RA – RA shadows GPP as increasing photosynthesis requires more autotrophs, thus autotroph 
+respiration also increases until year 70. However, after year 70 RA levels off or decreases with 
+decreasing photosynthesis. Answers that describe RA as increas ing after year 70 because carbon 
+stored in roots and stems require greater maintenance respiration are acceptable. 
+f. Describe how Net Commu nity Production would change and why. 
+NCP – Net community production will increas e until year 70, and then decline to approximately 
+zero as photosynthesis (GPP) equilibrates with respiration (RA + RH). 
+BONUS (2 points): According to Remmert, why is ecological theory crucial to our continued 
+existence? 
+“We can live on earth under the conditions now prevailing, and under no others. As a pure 
+science, ecology is concerned with understanding the balance and turnover of matter and energy 
+in nature. In its applied form, ecology faces the problem of discovering how the conditions 
+essential for present-day life can be maintained.” 
+4. (10 points) Write in a metabolic process that is likely to take place in each environment listed 
+in the table below. A list of metabolic processes is provided. Some processes may be used more 
+than once or not at all. 
+Environment Metabolic Process 
+Deep-sea hydrothermal vents Sulfur/Sulfide Oxidation (CO Oxidation, 
+Methanogenesis, Iron Oxidation, H2 Oxidation) 
+An aquarium filled with well-fed fish Ammo nia Oxidation (Photosynthesis) 
+Termite guts Methanogenesis 
+The surface of living stromatolites Photosynthesis 
+Iron oxide particles in anoxic sediments Iron Reduction 
+Metabolic Processes: H2 Oxidation, Ammonia Oxidation, CO Oxidation, Methanogenesis, Iron 
+Oxidation, Sulfur/Sulfide Oxidation, Photosynthesis, Iron Reduction Name: ____________________ Page 6 
+5. (15 points) Your TAs have decided to take you to the Harvard Forest instead of Plum Island for 
+the class field trip. The diagram below indicates the general nitrogen cycle in this particular 
+ecosystem. 
+C A 
+B 
+a. Label what form of nitrogen or what process is occurring at: 
+A B C 
+Dead Organic N NH4 + (Ammo nium) Denitrification 
+b. On your field trip, the TAs take you to a part of the forest where a clear-cutting experiment is 
+being conducted. One of the TAs notes that the soil is losing nitrogen to surface and groundwater 
+runoff. Explain why. 
+Internal cycling of nitrogen is an important component of the terrestrial nitrogen budget. Plants 
+are vital to this internal cycling, as they both assimilate dead organic nitrogen that has been 
+mineralized to ammo nium and nitrate that has been produced from nitrite by nitrifying bacteria. 
+If plants are not present to uptake and store nitrate and ammonium, they are leached from the soil. 
+c. In what major ways does the nitrogen cycle differ from the phosphorous cycle? Specifically, 
+compare and contrast the flow of nitrogen and phosphorous through Earth’s biosphere. 
+Nitrogen is plentiful and cycles readily throughout the biosphere. Humans can create ammo nium 
+from nitrogen gas using the Haber-Bosch process, and thus have an incredibly large influence on 
+the nitrogen cycle. Phosphorous, in contrast, is scarce and travels on a “one-way street” from 
+soils and rocks to the ocean. Humans also have a large impact on the phosphorous cycle. 
+Phosphorous is mined to use in fertilizers, and while some phosphorous taken up by plants, much 
+of it runs off to oceans where it is stored in relatively inacces sible marine sediments. MIT OpenCourse Ware 
+http://ocw.mit.edu 
+1.018J / 7.30J Ecology I: The Earth 
+Fall 2009 
+For informati on about citing these mate rials or our Terms of Use, visit: http://ocw.mit.edu/term s. ",True,True,1,1,0,False,1,False,True,True
+33,1-018j-ecology-i-the-earth-system-fall-2009,"� �� Useful Equations and Information 
+dS dN1 �K1 /.notdef.g0001 N1 /.notdef.g0001�N2 /.notdef.g0005 
+rV PV�/.notdef.g0001 = 
+��� = DSi /.notdef.g0001 DS /.notdef.g0001 rNQ ! = r1N1/.notdef.g0007 /.notdef.g0008dt dt /.notdef.g0004 K1 /.notdef.g0006 r S r = max ! dN2 �K2 /.notdef.g0001 N2 /.notdef.g0001�N1 /.notdef.g0005 
+K+ S = r2N2/.notdef.g0007 /.notdef.g0008! s dt /.notdef.g0004 K2 /.notdef.g0006 (Si /.notdef.g0001 S) dP N = =�PV /.notdef.g0001 qP !Q dt 
+f dVD = ! V dt 
+' ' ' �E= E � E dN N o o (OxidizingAgent ) o(Re ducingAgent ) = rN 1/.notdef.g0001 dt K �G ' 
+o =�nF(�E ' 
+o ) 
+SI = 1/.notdef.g0001 D n=#e-transferred per mol of reductant 
+-1 -1F = Faraday constant (96.5 kJ Vmol ) 
+-1 -1R= g a s c o n s t a n t ( 8 . 3 1 J Kmol )
+Standard reactants: 1 M, 1 atm, 25°C (298 K)
+Name: ____________________ Page 1 
+ th1.018/7.30J Ecology 1 Quiz #3 November 24, 2009 
+Please put your name on every page! Space is provided for your answers; if you need 
+more room, use the back of the same page. This exam is worth 100 points, with an 
+additional 5 points of bonus problems. You have 80 minutes to work on it and the value 
+of each question is roughly proportional to the amount of time you should spend 
+answering it. The test will begin at 11:05am and promptly end at 12:25pm. ! !
+Mean = 75.9, Standard Deviation = 12.3 
+1. True or False (7 points): 
+___F_The majority of Earth’s freshwater is contained lakes and rivers 
+___T_Global renewable freshwater resources are likely to increase as a result of climate 
+change 
+___T_Nitrogen cycles more rapidly in the global environment, on average, than 
+phosphorous ___F_The nitrogen cycle has a weak biological component 
+___F_On an annual basis, the flux of carbon to the atmosphere generated by human 
+activity is larger than the flux of carbon from the atmosphere to terrestrial vegetation. 
+___T_The oceans store the majority of the Earth’s carbon 
+___F_The largest reservoir of phosphorus on Earth is the atmosphere Name: ____________________ Page 2 
+2. (15 points) Match each statement with the correct term or terms. Statements with more 
+than one answer are noted. Some terms may be used more than once, some not at all. 
+1. Exergonic 2. Endergonic 3. Reducing Agent 4. Oxidizing Agent 
+5. Chemotroph 6. Phototroph 7. Chemolithotroph 8. Nitrogen 
+9. Water Vapor 10. Carbon Dioxide 11. Oxygen 12. Methane 
+13. 3.6B years ago 14. 2.5B years ago 15. 2B years ago 16. 1B years ago 
+17. Assimilation 18. Mineralization 19. Haber-Bosch Process 20. Denitrification 
+21. Nitrification 22. Nitrogen Fixation 23. Biological Fractionation 24. Redfield Ratio 
+__14_Great Oxyge nation Event 
+__15_Emergence of macroscopic eukaryotes 
+__23_Differential use of isotopes of elements by enzymes 
+___1_A reaction that releases energy 
+___2_A reaction that absorbs energy 
+_5,7_An organism that gets its energy from reduction/oxidation reactions (2 answers) 
+___7_An organism that oxidizes inorganic compounds 
+9,10,12_Gasses present in significantly greater quantities in Earth’s early atmosphere 
+than in the current atmosphere (3 answers) 
+19,22_Conve rsion of nitrogen gas to ammonia (2 answers) 
+__21_Biological oxidation of ammonia to nitrite 
+__20_Nitrate reduction to N2 gas 
+-___3_NH4+ in: NH4+ + NO2 N2 + 2 H20 Name: ____________________ Page 3 
+3. (10 points) Answer the following questions using one sentence: 
+Why do cyanoba cteria bloom in lakes that are enriched with phos phorus? 
+When the phos phorous limitation is removed, nitrogen often becomes limiting and some 
+cyanoba cteria are able to fix nitrogen, thus giving them a competitive advantage in 
+nitrogen-limited systems. 
+Can a lake have a Redfield Ratio of C:N:P of 106:16:1 and still be eutrophic? How? 
+Yes, adding large quantities of nitrogen and phos phorous to a lake will make it eutrophic, 
+even if added at a ratio of 16:1. 
+Why is the O2 minimum in oceans just below the thermocline? 
+As organic compounds settle out of the mixed layer (which is equilibrated with the O2 in 
+the atmosphere), they are oxidized and O2 is consumed at a rate greater than it is 
+produc ed (if there is light), and these waters are isolated from the atmosphere so there is a 
+net loss. 
+Why is iron a limiting nutrient in some ocean ecosystems but not in lakes? 
+Iron is transported to ecosystems by wind-blown dust and cycled from sediment. 
+List three differences between the biogeochemistry of the clear-cut and control 
+watersheds at Hubba rd Brook Experimental Forest. 
+Increased surface runoff, nitrate output, leaching of cations. 
+BONUS (2 points): What seminal scientific contribution did researchers at Hubba rd 
+Brook make in the 1970s ? 
+Researchers at Hubba rd Brook detailed the many negative effects of acid rain on NE 
+forested ecosystems. 
+4. (8 points) Kate and Emily are devising an evil scheme to take over the world. They
+want to create a new type of super-organism that will outcompete all others.
+Additionally, they want their super-organism to produc e hydrogen sulfide as a by-produc t
+because it is toxic.
+Kate finds two half reactions with hydrogen sulfide as a produc t: 
+SO42-+ 10H+ + 8 e-H2S + 4 H20 -0.210 V 
+S + 2H+ + 2e-H2S -0.243 V 
+Emily wants to couple one of the above reactions with either: 
+2 H+ + 2e-H2 -0.414 V 
+CO2 + 4 H+ + 4e-1/6 C6H12O6 + H2O -0.430 V Name: ____________________ Page 4 
+Pick which reaction is most energetically favorable (show work). 
+SO42-& H2: ΔGo’ =-8F * (-0.210 + 0.414) = -1.63F 
+SO42-& C6H12O6: ΔGo’= -8F * (-0.210 + 0.430) = -1.76F = -169.8 kJ V-1 mol-1 
+’ S & H2: ΔGo =-2F * (-0.243 + 0.414) = -0.34F 
+’ S & C6H12O6: ΔGo =-4F * (-0.243 + 0.430) = -0.75F 
+5. (15 points) You have developed a pilot scale algal produc tion system designed to study 
+how you might maximize the produc tion of lipids by algae for use in biofuels. You have 
+learned that if you grow the cells in a nitrogen-limited chemostat, they are likely to 
+produc e more lipids per cell, so you decide to set this system up. You have three 
+different culture media available to you, with the following compositions: 
+Concentration µg/L 
+A B C 
+Nitrogen 32 32 60 
+Phosphorus 2 4 3 
+Iron 0.05 0.04 0.005 
+NOTE: In the answers below, be sure to include units. Also show your reasoning. The 
+actual answer is not as important as how you arrived at it. 
+a) Which medium would you use to set up your chemostat? Why? 
+Medium B, N:P ratio is around 8:1 
+b) You have an old broken down pump, and it can only pump media into the chemostat at 
+one speed: 200 L per day. What volume of culture would you set up if you wanted your 
+cells to grow at a specific growth rate, r, of 0.8 day -1? 
+r = D in steady state, and D = f/V 
+V=f/D 
+V = 200L day-1/0.8 day-1 = 250 L 
+c) At this growth rate, and with the media you selected, you find that there are 105 cells 
+per L in your culture. How much nitrogen is there in each cell? 
+Q = (Si – S)/N and S is negligible, so Q = Si/N 
+Q = (32 µg/L)/(105 cells/L) = 3.2 x 10-4 µg/cell 
+d) Your boss is not satisfied with the yield from your chemostat. How would you 
+increase it? 
+Increase all nutrients in Si. The system must remain nitrogen-limited. 
+N = Si/Q Name: ____________________ Page 5 
+e) Your boss still isn’t satisfied. She buys you a pump that actually has variable speeds. 
+How would you determine the maximum pumping rate you could use to produc e the most 
+amount of biomass per unit time? 
+Dial up the speed and bring the culture to steady state at each incremental speed until you 
+reach one that washes the cells out. The max steady state produc tion of cells would be at 
+the dilution rate, D, that is right below rmax. Or determine rmax in batch culture and set the 
+dilution rate right below it. 
+6. (15 points) In the summer of 2010 , Skylar decides to return to Chesapeake Bay to 
+participate in a study of salt marshes. In the first part of the study, S kylar is asked to 
+examine the profiles of two different marine inlets of the salt marshes (shown below). Io 
+is the incident light intensity at the surface of the water. 
+Io IoA. B. 
+ln(I) 
+20 m 20 m 
+ln(I) 
+Temperature Temperature 
+Depth Depth 
+100 m 100 m 
+a) Which marine site would have the most net primary produc tivity and why?
+A will have the most NPP. In A, since light penetrates below the mixing depth,
+phytoplankton will be actively photosynthesizing throughout the whole mixed layer and 
+will have positive NPP. In B, phytoplankton will spend some of their time below the
+compensation depth, so they will spend some of their time respiring only, hence their
+overall NPP will be lower. In other words, the GPP/R ratio will be higher in A, meaning 
+NPP will be greater. 
+b) The next part of the study involves looking at the marsh itself. It is assumed in this 
+problem that the only source of primary produc tivity in marshes is a marsh grass called 
+Spartina. You determine that for a patch of marshland the Gross Primary Produc tivity 
+(GPP) is 400 g C m-2 day-1, the NPP is 325 g C m-2 day-1, and the NCP is 200 g C m-2 
+day-1. What is the respiration rate of autotrophs and heterotrophs in this system? 
+NPP = GPP – RA 
+NCP = NPP –RH Name: ____________________    Page 6 
+Skylar participates in a survey to determine the food web of the marshland. She draws the 
+following food web that includes a turtle, a snail, Spartina, a blue crab, and a striped bass:     
+ 
+ 
+ 
+  
+ 
+ 
+c) Assume the exploitation efficiency between all trophic levels is 10%.  How many g C 
+of Spartina is required to produce 1200 g C of striped bass?  
+P = 1200 g C/ (0.1)(0.1)(0.1) 
+ 
+d) Define what a keystone predator is in a sentence or two.  Which of the above species is 
+the keystone specie of this system?  What would happen to the other species if it were 
+removed? 
+A keystone predator is one that has a controlling effect on an ecosystem; its removal 
+would have a larger effect than predicted by numbers alone. 
+ 
+Blue crab, the species is keeping the periwinkle in check. Since there are no other 
+competing herbivores in this system, periwinkle would eat all the Spartina, habitat would 
+be gone. Striped Bass population would disappear, same with turtles.  
+ 
+e) Skylar does some behavioral observations of striped bass in the system.  She finds that 
+their diet consists of 60% blue crab and 40% of a herbivorous crab.  Calculate the striped 
+bass’ exact trophic level. 
+TL = 0.4*2 + 0.6*3 
+ 
+f) List two methods taught in class to determine the mean trophic level of fish.   
+Gut content analysis, stable isotope analysis 
+ 
+g) Juncus is a species of marsh grass that is found in the high marsh (farther from the 
+ocean).  It is not nearly as nitrogen and water limited as Spartina, but grows slower than 
+Spartina.  How does Spartina impact Juncus’ fundamental niche?  Why does Juncus 
+Name: ____________________ Page 7 
+survive in the high marsh? What would happen to Juncus’ area of cover if Spartina were 
+removed from the system? 
+Spartina competes with Juncus for phys ical space. Because Spartina can grow fast, it 
+takes up space quickly. However Juncus does not require as many nutrients and water to 
+grow so its able to survive in the high marsh. If Juncus did not have to compete with 
+Spartina it would be able to cover more of the marsh. 
+7. (10 points) 
+The size of the human popul ation on Earth has increased dramatically in the past 200 
+years. This has been described as a period of “demographic transition”. Some countries 
+have already finished going through the transition, while others have not. 
+a) On the axes below, sketch the changes in birth rate (bx), death rate (dx), and relative 
+popul ation size (N) over the course of a demographic transition in a popul ation. Indicate 
+on the time axis of the graph where you might find a country like France, and where you 
+might find a country like Liberia. 
+Time Death Rate Birth Rate Population 
+Liberia Relative 
+Population Birth Rate/ Size Death Rate 
+[# per 1000 
+per year] 
+France 
+b) Explain the unde rlying causes of the features on your figure. 
+When the birth and death rates are high and similar, the popu lation is fairly stable and 
+relatively small. As agricultural, medicine, and technology (the ability to create/use 
+energy) improve; the death rate is reduced while the birth rate stays constant. This results 
+in a popul ation explosion. Decreases in death rates continue and eventually level off. 
+Birth rates also decrease, reflecting socioeconom ic changes. Eventually the death rate 
+surpasses the birth rate and popul ation begins to contract. 
+8. (15 points) Skylar and Jonathan have had enoug h of the precipitation in New England 
+and decide to go to the Kalahari Desert. They stumble across two kinds of scorpions: red 
+and black. Skylar and Jonathan decide to study the competition between the two species. 
+They determine that the carrying capacity (K1) of red scorpions is 100 and that the Name: ____________________    Page 8 
+carrying capacity (K 2) of black scorpions is 150.  Jonathan calculates that the impact of 
+the black scorpion on the red scorpion ( α) is 2 and the impact of the red scorpion on the 
+black scorpion ( β) is 3. 
+  
+a) The initial population sizes are 25 red scorpions and 50 black scorpions.  Graph the 
+isoclines for each species and plot the initial population sizes.  Predict the short-term 
+dynamics of each population.  Predict the final outcome of interspecific competition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The isoclines define an unstable equilibrium. From the initial densities, the black 
+scorpions will increase and the red scorpions will decrease in the short run. Eventually, 
+the red scorpions will be driven to extinction; the black scorpions will be out at their 
+carrying capacity (150).  
+ 
+b) Skylar does her own calculations and determines that Jonathan’s calculation of the 
+carrying capacity (K 1) of red scorpions is wrong, but that the rest of his calculations are 
+correct.  What are the relationships between carrying capacities needed for red scorpions to win in competition?  Write your answer in terms of K
+1, K2, α, and β. 
+K2 < K 1 β AND K 2 α  < K 1 
+ 
+c) What are the relationships between carrying capacities needed for red scorpions to 
+coexist with black scorpions?  Write your answer in terms of K 1, K 2, α, and β. 
+K2 α < K 1 AND K 2 > K 1 β 
+ d) Define the Intermediate Disturbance Hypothesis. 
+The intermediate disturbance hypothesis states that at moderate levels of disturbance the 
+biodiversity is highest, because one species is not able to totally dominate (as would in 
+low disturbance) nor do all go extinct (as in high disturbance). 
+ 
+ 
+ 
+ Stable Equilibrium 
+K1 K2/β K2 
+K1/α Unstable Equilibrium 
+N1  N2 Stable Equilibrium 
+x Name: ____________________ Page 9 
+e) Below is the figure from Conne ll (1978 ) demonstrating the intermediate disturbance 
+hypot hesis: 
+Diversity 
+Frequency of Disturbance 
+Jonathan and Skylar determine that according to their isoclines, red scorpions win out in 
+competition. Explain to your TAs how this hypot hesis might explain why we see the red 
+and black scorpions coexisting in the Kalahari Desert. 
+Here, moderate disturbance may allow black scorpions to survive because it perhaps 
+reduces’ the red scorpion’s popul ation often enoug h. 
+9. (5 Points) Name and describe one additional compone nt included in the “Sterman 
+Model” that is lacking in the Malthusian human population growth model. 
+Variable carrying capacity. In the Malthusian Model the carrying capacity is fixed, while 
+in Sterman’s model technology, us e of resources, and waste generated all affect the 
+carrying capacity. 
+BONUS (3 points): List the three necessary (but not sufficient) principles of 
+sustainability outlined by Prof. Sterman. 
+Can’t use renewable resources faster than they are regenerated; can’t produc e wastes 
+faster than they are rendered harmless; can’t use nonrenewables over the long haul at all. MIT OpenCourse Ware 
+http://ocw.mit.edu 
+1.018J / 7.30J Ecology I: The Earth 
+Fall 2009 
+For informati on about citing these mate rials or our Terms of Use, visit: http://ocw.mit.edu/term s. ",True,True,1,1,0,True,1,False,True,True
+2,15-760b-introduction-to-operations-management-spring-2004,"Exercise 1 Name: ______________________
+Draw an inventory buildup diagram for the fish processing example (from the lecture) when freezer capacity is 
+2400 tons, demand pattern is the same, but processing capacity is instead 3300 tons/month: 
+2002 - Jérémie GallienHint: recall from DMD/Stat that σ[X] = sqrt(E[X2]-E[X]2) 
+ Exercise 2 
+Compute the long-term average of customer waiting time for the example “A Queue with Bursty Arrivals” (from 
+the lecture), when the service time of each customer is instead (exactly) 50 seconds: 
+2002 - Jérémie Gallien",False,False,1,1,0,False,0,False,True,True
+5,15-760b-introduction-to-operations-management-spring-2004,"Exercise 3 Name: ______________________
+You need 50,000 units per year of a given part, and that part costs you $4 per unit. In addition to purchasing 
+cost, every order for that part has a fixed administrative cost of $800 (regardless of order size). Assuming an 
+inventory holding cost of 30% per annum, what is the optimal number of inventory turns per year? 
+2002 - Jérémie GallienExercise 4
+A warehouse facing a weekly customer demand N(100,20) replenishes its stock every month from a vendor 
+with a 2 week delivery lead-time. What is the order-up-to level required to achieve a service level of 99%? 
+2002 - Jérémie Gallien",False,False,1,1,0,False,0,False,True,True
+8,15-760b-introduction-to-operations-management-spring-2004,"Quality 
+Exercise 7 Name: ______________________ 
+LSL LSL 
+ The two following quality control histograms represen t the distribution of the number of dead pixels per 
+square inch in a LCD display component received by  a cell phone manufacturer from a supplier. From an 
+operational standpoint, what is likel y to have produced  such result s? Note: we are NOT asking for an 
+engineering or technical answer. 
+USL USL 
+2002 - Jérémie GallienQuality
+Exercise 8 
+What is the capability of a centered process that woul d produce 1 part per million outside of the upper and 
+lower specification limits? 
+Hint: in Excel, the function giving the fractiles of the standard normal distribution is NORMSINV(probability ). 
+2002 - Jérémie Gallien",False,False,1,1,0,False,0,False,True,True
+20,15-351-managing-the-innovation-process-fall-2002,"['Name: _________________________', 
+ 'Reflection Exercise', 
+ 'Lecture 16, 17 – Organizational Features', 
+ 'In your opinion, what is the most innovative company in the world today? State your reasons why and describe characteristics of the firm that you believe contribute to its success, such as its management practices, employee base, product development process, organizational culture, etc.']",True,False,1,1,0,False,1,False,True,True
+21,15-351-managing-the-innovation-process-fall-2002,"['Name: _________________________  ', 'Reflection Exercise  ', 'Lecture 18, 19 – Organizational Learning', 'Think about an organization in which you have worked. Name three things that it could have \ndone (but didn’t) to improve innovation on the whole. Why didn’t it do them? Could  it have done \nthem? What improvement strategies would you have recommended to the CEO?']",True,False,1,1,0,False,1,False,True,True
+20,15-351-managing-the-innovation-process-fall-2002,"['Name: _________________________', 
+ 'Reflection Exercise', 
+ 'Lecture 16, 17 – Organizational Features', 
+ 'In your opinion, what is the most innovative company in the world today? State your reasons why and describe characteristics of the firm that you believe contribute to its success, such as its management practices, employee base, product development process, organizational culture, etc.']",True,False,1,1,0,False,1,False,True,True
+21,15-351-managing-the-innovation-process-fall-2002,"['Name: _________________________  ', 'Reflection Exercise  ', 'Lecture 18, 19 – Organizational Learning', 'Think about an organization in which you have worked. Name three things that it could have \ndone (but didn’t) to improve innovation on the whole. Why didn’t it do them? Could  it have done \nthem? What improvement strategies would you have recommended to the CEO?']",True,False,1,1,0,False,1,False,True,True
+41,2-20-marine-hydrodynamics-13-021-spring-2005,"['2.20 Problem Set 10B Name: ____________________',
+ '1. Supplementary Problem Va5.',
+ '2. Supplementary Problem Va20.']",True,False,1,1,0,False,1,False,True,True
+42,2-20-marine-hydrodynamics-13-021-spring-2005,"['2.20 Problem Set 11A Name: ____________________',
+ '1. Supplementary Problem Va21.',
+ '2. Supplementary Problem V13  (a), (b), (c)']",True,False,1,1,0,False,1,False,True,True
+8,6-974-fundamentals-of-photonics-quantum-electronics-spring-2006,"MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
+Department of Electrical Engineering and Computer Science 
+ 
+6.097 (UG) Fundamentals of Photonics 
+6.974 (G) Quantum Electronics 
+Spring 2006 
+Quiz II 
+Time: April 21 , 2006, 2-3:30pm  
+ 
+Problems marked with ( Grad ) are for graduate students only.  
+ 
+• This is a closed book exam, but two 81/ 2”x11” sheets (both sides) is allowed. 
+• At the end of the booklet there is  a collection of equa tions you might find helpful for the exam. 
+• Everything on the notes must be in  your original handwriting (i.e . material cannot be Xeroxed). 
+• You have 90 minutes for this exam. 
+• There are 5 problems for undergraduate and 6 problems for graduate students on the exam with 
+the number of points for each part and the total poi nts for each problem as indicated. Note, that 
+the problems do not all have th e same total number of points. 
+• Some of the problems have parts for graduate  students only. Undergra duate students solving 
+these problems can make these additional points a nd compensate eventually  for points lost on 
+other problems. 
+• Make sure that you have seen all 22 numbered sides of this answer booklet. 
+• The problems are not in order of difficulty . We recommend that you read through all the 
+problems, then do the problems in whatever order suits you best. 
+• We tried to provide ample spac e for you to write in. However, the space provid ed is not an 
+indication of the length of the explanation re quired. Short, to the poi nt, explanations are 
+preferred to long ones th at show no understanding. 
+• Please be neat-we cannot grad e what we cannot decipher. 
+ 
+All work and answers must be in  the space provided on the exam  booklet. You are welcome to use 
+scratch pages that we provide but when you hand in the exam we will not accept any pages other 
+than the exam booklet. 
+   
+     Exam Grading 
+        
+In grading of the exams we will be focusing on your level of understanding of the material 
+associated with each problem. When we grade each pa rt of a problem we will do our best to assess, from 
+your work, your level of understanding. On each part of an exam quest ion we will also indicate the 
+percentage of the total exam grad e represented by that part, and your  numerical score on the exam will 
+then be calculated accordingly.  
+ Our assessment of your level of  understanding will be based upon what  is given in y our solution. A 
+correct answer with no explanatio n will not receive full credit, a nd may not receive much-if any. An 
+incorrect final answer having a solution and explan ation that shows excellent  understanding quite likely 
+will receive full (or close to full) credit. 
+ 
+ 
+ 
+ 1This page is intentionally left  blank. Use it as scratch paper. 
+No work on this page will be evaluated. 
+ 2MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
+Department of Electrical Engineering and Computer Science 
+ 
+6.097 (UG) Fundamentals of Photonics 
+6.974 (G) Quantum Electronics 
+Spring 2006 
+Quiz II 
+Time: April  21, 2006, 2-3:30pm  
+ 
+ 
+ 
+ 
+ 
+Full Name: ______________________________________________ 
+ 
+ 
+ 
+Are you taking 6.974 ____ or  6.097  ____ ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Problem Max points 
+(undergrad.) Max points 
+(grad.) Your Points 
+1. Gaussian Beams and Resonators 21 36  
+2. Coupled Waveguide Modes 20 20  
+3. Polarization of Light 14 14  
+4. Thermal Radiation 18 18  
+5. Schrödinger’s Equation 17 17  
+6. Superposition State - 15  
+Total 90 120  
+ 
+ 
+ 
+ 
+ 3Problem 1: Gaussian Beams and Resonators 
+(21 points undergrad/36 points grad)  
+ 
+(a) (4 points) What are the characteristics of the Gaussian beam at the waist?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (3 points) What is the physical  meaning of the Rayleigh range  of a Gaussian beam?  Rz
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) (5 points) In the resonator shown be low the spot size of th e mode is larger at mirror 2. Is the waist of 
+the beam situated closer to mirror 1 or mirror 2? Why?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) (9 points) Consider the stable plano-concave resonator shown below. The fundamental mode of the 
+resonator at wavelength mμ λ1=  is a Gaussian beam with the waist radius . 0w
+ 
+ 
+ 
+– How will the waist radius of the mode change if λ is increased to mμ10 ? Show your reasoning. 
+– How will the divergence angle of the beam change if λ is increased to mμ10 ? 
+ 
+ 
+ 
+ 5(e) (Grad ) (15 points) Suppose you need to design a two-mirror resonator for a high-power laser 
+operating at mμ λ1= . You have at your disposal 3 pairs of mirrors: two spherical mirrors with ROC  
+(radius of curvature) of 1 m, two spherical mirrors with ROC  = 2m , and two  plane mirrors 
+( ). There are two requirements that must be satisfied: ∞ = ROC
+(i) for a given power, the intensity at the mirrors must be as small as possible to avoid mirror 
+damage; 
+(ii) to achieve most effective amplifica tion, the gain medium with radius  is placed into 
+the waist region  of the Gaussian beam. The waist size must not be too small, otherwise the 
+beam will fill just a part of the gain medium, an d it also must not be too large, otherwise only a 
+fraction of the beam will be amplified. Suppose that  the optimum waist radius is half the gain 
+medium radius, . Thus the waist radius of the beam is fixed by the gain 
+medium and cannot be vari ed in resonator design. mm r7 . 0=
+mm r w 35 . 0 2 /0 = =
+ 
+– Which two of the available mirrors would you choose for the resonator? Why? 
+– Approximately what length of resonator would you choose? 
+ 
+ 
+ 
+ 6Problem 2: Coupled Waveguide Modes 
+(20 points) 
+Two waveguides are spaced closely to each othe r. In the absence of the other waveguide, the 
+unperturbed waveguides each have two guided modes with the propagation constants sketched below 
+(note that the subscripts denote the waveguide number and superscripts denote the mode number). 
+ 
+Waveguide II 1,−mμ β  
+3 
+2 
+1 ) 1 (
+Iβ4 ) 2 (
+Iβ) 2 (
+IIβ
+) 1 (
+IIβ
+Waveguide I 
+ 
+ 
+a) (5 points) Which pair of modes can exchange full power upon arbitrarily small coupling between 
+these waveguides? Give a brief explanation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8b) (10 points) Now consider that in the abse nce of the other waveguide, the unperturbed 
+waveguides each have only one guided mode with  the propagation constants sketched below. 
+Power is launched in waveguide I with wave number βΙ  and there is coupling to the guided 
+mode in waiveguide II  with the wave number βΙΙ . The coupling is described by the coupling 
+coefficient . What will be the maximum power coupling from waveguide I to 
+waveguide II?  15 . 0−
+−= mII I μ κ
+Waveguide II 1,−mμ β  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c) (5 points) At what length L of the two waveguides does the maxi mum power transfer from waveguide 
+I to waveguide II occur a ccording to part (b)? 
+ 2 
+1 Iβ  IIβ  
+Waveguide I 
+ 9Problem 3: Polarization of Light 
+(14 points) 
+ 
+A plane electromagnetic wave propagates in free space along the positive z-axis. The electric field 
+vector of the wave is given as 
+ 
+y y x x e z k t E e z k t E t z Er r r
+) cos( ) cos( ) , (0 0 ϕ ω ω + − + − =    (1) 
+ 
+(a) (4 points) What is the polarization in the following cases, i.e. is the light linearly polarized, circularly 
+polarized, or ellipt ically polarized?  
+ 
+ 1)  0=ϕ , , and ; 00≠xE 00=yE
+ 2) 2 /πϕ=  and . y xE E0 0=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (2 points) Determine a Jones vector for each of the two cases in part (a).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10(c) (2 points) Suppose we have a half-wav e plate with a phase  retardation of π= Γ and the principal 
+axes rotated by an angle ° =45 ψ  with respect to the x- and y- axes . What is the Jones Matrix of this 
+half-wave plate?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) (6 points) What is the final polarization of the tw o cases in part (a) after propagation through the 
+half-wave plate of part (c)?  
+ 
+ 11Problem 4: Thermal Radiation   
+(18 points) 
+ 
+We are given a system in an Ulbricht sphere of atoms and photons in thermal equilibrium at a 
+temperature T=300K . We will examine the photons that are emitted and absorbed at a wavelength of 
+620nm. 
+ 
+(a) (6 points) What kind of radiat or is described above?  Why?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4 points) Is 620nm the part of the energy spectr um where the atoms emit the most electromagnetic 
+energy?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13(c) (4 points) What is the average num ber of photons you expect to be stor ed in a radiation mode of this 
+system at 620nm?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) (4 points)  Now assume that our system only had two energy levels. Show that at high temperatures 
+the population densities  and  of the two states tend to become equal.  1n2n
+ 
+ 14Problem 5: Schrödinger’s Equation 
+(17 points) 
+ 
+A particle of mass m that moves in a potential V(x) is in the state 
+jbt axeat x− −= Ψ2
+42) , (π, 
+where a and b are positive real constants. 
+ 
+(a) (5 points) Find the uncertain ty in particle position.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (7 points) Is this a stationary stat e?  Why or why not?  If this is a stationary state, find the energy of 
+the system.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) (5 points)  Find the probability current, J(x, t). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15Problem 6: Superposition State 
+(Graduate problem , 15 points) 
+ 
+Consider a particle in an infinite  1-D square well with potential  
+ 
+⎪⎩⎪⎨⎧
+> ∞ =≤
+=
+2 / ,2 / , 0
+) (
+0 a x Va x
+x V  
+ 
+The particle is initially in a superposition st ate of the first two st ationary states, i.e. 
+[]121(, 0 ) () ()
+2xtx ψψ Ψ= = + x, 
+where the wave functions are ⎟
+⎠⎞⎜
+⎝⎛= xa axπψ cos2) (1  and ⎟
+⎠⎞⎜
+⎝⎛= xa axπψ2sin2) (2  inside the well and 
+zero outside the well. For a given state, n, the corresponding energy eigenvalue is 22 2
+22nnEmaπ=h. 
+ 
+What is the expected value of the particle position, x, for t > 0? 
+ 
+Note that the equation sheet at the back of this b ooklet contains some formul as you may find useful for 
+this problem. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16Quiz I   Equation Sheet 
+ 
+Maxwell’s Equations 
+tBE∂∂− = × ∇rr JtDHrrr
++∂∂= × ∇  
+ ρ= ⋅ ∇Dr
+ 0= ⋅ ∇Br
+ 
+ 
+Material Equations E P E Drr r r
+ε ε= + =0  E Perr
+χ ε0=  ) 1 (0 eχ εε + =  
+H M H Brr r r
+μ μ μ= + =0 0  H Mmrr
+χ=  ) 1 (0 mχ μμ + =  
+Index of Refraction 21n χ =+ , for χ << 1:   2 / 1χ+≈n  
+Poynting Vector  H E Sr rr
+× =*
+21H E Trrr
+× =  
+Energy density 2
+21E wer
+ε=  2
+21H wmr
+μ=   m ew w w+ =
+Snell’s Law 11 2sin sinnn2 θ θ =  
+Brewster’s Angle 
+12tannn
+B=θ  
+Reflectivity TE TETE TE
+TE
+Z ZZ Zr
+2 11 2
++−=  TM TMTM TM
+TM
+Z ZZ Zr
+2 12 1
++−= 
+ 
+2 / 1 2 / 12 / 1
+2 / 1cos1
+θ εμ=TEZ  2 / 1
+2 / 12 / 1
+2 / 1 cosθεμ=TMZ  
+ 
+2 2 1 12 2 1 1
+cos coscos cos
+θ θθ θ
+n nn nrTE
++−=  
+11
+2211
+22
+cos coscos cos
+θ θθ θ
+n nn n
+rTM
++−
+=   
+Transmitivity TE TETE
+TE
+Z ZZt
+2 122
++=  TM TMTM
+TM
+Z ZZt
+2 112
++=  
+ ) cos( ) cos() cos( 2
+2 2 1 11 1
+θ θθ
+n nntTE
++=  
+) cos( ) cos() cos(2
+11
+2222
+θ θθ
+n nn
+tTM
++=  
+Power Refl. Coef. 2TE TEr R=  2TM TMr R=  
+Power Transm. Coef. 2
+2 12 1
+212 4
+TE TETE TE
+TETE
+TE TE
+Z ZZ Z
+ZZt T
++= =    2
+2 12 1
+122 4
+TM TMTM TM
+TMTM
+TM TM
+Z ZZ Z
+ZZt T
++= =  
+ 
+ 
+(continued on the next page) 
+ 18Pulse Dispersion  22) , (
+2) , (
+tt z A kjzt z A
+′∂′ ∂′ ′=∂′ ∂ 
+Gaussian Pulse 2
+21 ) ( ⎟⎠⎞⎜⎝⎛′ ′+ =ττ τL kL  τ τ 2 ln 2 =FWHM  
+Fabry Perot ) 2 / ( sin 4 ) 1 () 1 (
+2 22
+2
+21φ R RRS+ −−=  where kL2=φ , ncfk
+02π=  
+Beam Splitter S-matrix rj tSjtr⎛=⎜⎝⎠⎞
+⎟, with 221 rt+= 
+Constants 
+εo = 8.85 ×  10-12 C2/Nm2 permittivity of free space 
+μο = 4π × 10-7 N/A2 permeability of free space 
+m = 9.11 ×  10-31 kg mass of an electron 
+e = 1.60 ×  10-19 C charge of an electron 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(continued on the next page) 
+ 
+ 19Quiz II   Equation Sheet 
+ 
+ Gaussian Beams  ⎥⎦⎤
+⎢⎣⎡+ − − = ) () ( 2 ) (exp
+) (2) , (2
+0 22
+z jz Rrjkz wr
+z wPz r E ζ
+π 
+  2
+01 ) (⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛+ =
+Rzzw z w  
+⎥⎥
+⎦⎤
+⎢⎢
+⎣⎡
+⎟
+⎠⎞⎜
+⎝⎛+ =2
+1 ) (zzz z RR
+ 
+  ⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛=
+Rzzzarctan ) ( ζ  
+  ⎥⎦⎤
+⎢⎣⎡− =) (2exp) () , (2 20
+0z wr
+z wwI z r I2 2
+ 
+  λπ2
+02
+0
+2w w kzR = =  
+0wπλθ=  
+ 
+ q-parameter Rjz z z q+=) (  ) ( ) (1
+) (1
+2z wjz R z q πλ− =  
+  ⎥⎦⎤
+⎢⎣⎡− =) ( 2exp) (1) , (2
+0z qrjkz qz r E  
+ Resonator Stability  1 02 1≤ ≤g g  
+111RLg − =  
+221RLg − =  
+ 
+ Waveguide Coupling  ⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛
+⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛Δ+ = z z P z P γγβγ22
+2
+1 1 sin cos ) 0 ( ) (  
+ 
+  ) ( sin| |) 0 ( ) (2
+22
+21
+1 2 z P z P γγκ=  
+  2
+122| |κ β γ+ Δ =  22 1β ββ−= Δ  22 1
+0β ββ+=  
+ 
+ Polarization, Retardation Plate  
+⎟⎟⎟⎟
+⎠⎞
+⎜⎜⎜⎜
+⎝⎛
++ ⎟
+⎠⎞⎜
+⎝⎛Γ−⎟
+⎠⎞⎜
+⎝⎛Γ− +
+=Γ Γ −Γ Γ −
+ψ ψ ψψ ψ ψ
+2 2 / 2 2 /2 2 / 2 2 /
+cos sin ) 2 sin(2sin) 2 sin(2sin sin cos
+j jj j
+e e jj e e
+W  
+(ψis the rotation angle of the principal axes with respect to the x- and y- axes) 
+ 
+(continued on the next page) 
+ 20 if π= Γ: ⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛
+−− =) 2 cos( ) 2 sin() 2 sin( ) 2 cos(
+ψ ψψ ψj W 
+ 
+ if 2π= Γ: 
+⎟⎟⎟⎟
+⎠⎞
+⎜⎜⎜⎜
+⎝⎛
++ −− −
+=
+)] 2 cos( 1 [
+21) 2 sin(
+21) 2 sin(
+21)] 2 cos( 1 [
+21
+ψ ψψ ψ
+j jj j
+W  
+ Wien’s Law 3
+38()hf
+kThfwf ecπ −=  
+ Wien Displacement Law  max4.965hc
+kTλ=  
+ Rayleigh-Jeans Law 2
+38()wf fk Tcπ=  
+ Planck’s Law 2
+38()
+exp 1fh fwfhf c
+kTπ=
+− 
+ Einstein’s A and B Coefficients  3
+21
+21 12 38fABcπ=  21 12B B=  
+ Schrödinger’s Equation  2(,)(,) () (,)2dr tj rt Vr rtdt mΨ=− Δ Ψ + Ψhh  
+ Heisenberg’s Uncertainty Principle  2xpΔΔ≥h 
+ de Broglie’s Formula  p k=h 
+ Einstein’s Energy/Frequency Relation  E ω=h 
+ 
+ Trigonometric Identities  α α α cos sin 2 2 sin =      α α α2 2sin cos 2 cos− =
+  ) cos(21) cos(21sin sin β α β α β α+ − − =  
+  ) cos(21) cos(21cos cos β α β α β α+ + − =  
+  ) sin(21) sin(21cos sin β α β α β α− + + =  
+  ) sin(21) sin(21sin cos β α β α β α− − + =  
+(continued on the next page) 
+ 21 
+ 
+ Helpful Integrals  adx ex a π= ∫∞
+∞ −−2  02= ∫∞
+∞ −−dx xex a
+  32
+21 2
+adx e xx a π= ∫∞
+∞ −− 
+ Cx x xdx x x +−= ∫ 2) cos( ) sin() sin(αα α αα  
+ Cx x xd x x ++= ∫ 2) sin( ) cos() cos(αα α αα α  
+ 
+ Constants k  = 1.380650 × 10-23 J/K Boltzmann's constant 
+  c0 = 2.997925 × 108 m/s Speed of light in free space 
+   Planck's constant 
+J·s  10 054571 1J·s  10 626068 6
+3434
+--
+.. h 
+× =× =
+h
+ 22",True,True,1,1,0,False,1,False,True,True
+9,6-974-fundamentals-of-photonics-quantum-electronics-spring-2006,"MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
+Department of Electrical Engineering and Computer Science 
+ 
+6.097 (UG) Fundamentals of Photonics 
+6.974 (G) Quantum Electronics 
+Spring 2006 
+Final Exam 
+Time: May 23 , 2006, 1:30-4:30pm
+ 
+Problems marked with ( Grad ) are for graduate students only.  
+ 
+• This is a closed book exam, but three 81/2”x11” sheets (both sides) are allowed. 
+• At the end of the booklet there is  a collection of equa tions you might find helpful for the exam. 
+• Everything on the notes must be in  your original handwriting (i.e . material cannot be Xeroxed). 
+• You have 3 hours for this exam. 
+• There are 8 problems for undergradu ate and 9 problems for graduate students on the exam with 
+the number of points for each part and the total poi nts for each problem as indicated. Note, that 
+the problems do not all have th e same total number of points. 
+• Some of the problems have parts for graduate  students only. Undergra duate students solving 
+these problems can make these additional points a nd compensate eventually  for points lost on 
+other problems. 
+• Make sure that you have seen all 29 nu mbered sides of this answer booklet. 
+• The problems are not in order of difficulty . We recommend that you read through all the 
+problems, then do the problems in whatever order suits you best. 
+• We tried to provide ample spac e for you to write in. However, the space provid ed is not an 
+indication of the length of the explanation re quired. Short, to the poi nt, explanations are 
+preferred to long ones th at show no understanding. 
+• Please be neat-we cannot grad e what we cannot decipher. 
+ 
+All work and answers must be in  the space provided on the exam  booklet. You are welcome to use 
+scratch pages that we provide but when you hand in the exam we will not accept any pages other 
+than the exam booklet. 
+   
+     Exam Grading 
+        
+In grading of the exams we will be focusing on your level of understanding of the material 
+associated with each problem. When we grade each pa rt of a problem we will do our best to assess, from 
+your work, your level of understanding. On each part of an exam quest ion we will also indicate the 
+percentage of the total exam grad e represented by that part, and your  numerical score on the exam will 
+then be calculated accordingly.  
+ Our assessment of your level of  understanding will be based upon what  is given in y our solution. A 
+correct answer with no explanatio n will not receive full credit, a nd may not receive much-if any. An 
+incorrect final answer having a solution and explan ation that shows excellent  understanding quite likely 
+will receive full (or close to full) credit. 
+ 
+ 
+ 
+ 1This page is intentionally left  blank. Use it as scratch paper. 
+No work on this page will be evaluated. 
+ 2MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
+Department of Electrical Engineering and Computer Science 
+ 
+6.097 (UG) Fundamentals of Photonics 
+6.974 (G) Quantum Electronics 
+Spring 2006 
+Final Exam 
+Time: May 23 , 2006, 1:30-4:30pm
+ 
+ 
+ 
+ 
+ 
+Full Name: ______________________________________________ 
+ 
+ 
+ 
+Are you taking 6.974 ____ or  6.097  ____ ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Your Points Max points 
+(undergrad.)Max points 
+(grad.) 
+1 Fabry-Perot Filter  20 20 
+2 ABCD Matrices  12 12 
+3 Gaussian Beams/Resonators  5 5 
+4 Polarization of Light  18 18 
+5  Harmonic Oscillator  20 20 
+6 Operators/Commutators  10 10 
+7 Two-Level Atom  15 15 
+8 Laser  25 25 
+9 Three-Level System  - 25 
+Total   125 150 
+ 
+ 
+ 
+ 
+ 3Problem 1: Fabry-Perot Filter 
+ (20 points) 
+In most fiber optics transmission systems a single fiber is used for transmission of multiple channels, 
+each of which has a different carrier frequency. Suppos e that you have a system with 40 channels; each 
+channel has 40 GHz bandwidth and these channels ar e spaced by 100 GHz. A part of this spectrum is 
+illustrated below. 
+ 
+At the output of the fiber, each of these channels must be separated from the others before information carried by this channel can be used. Suppose we want to use a Fabry-Perot resonator as a filter to select the single channel at 194 THz. The two mirrors of the Fabry-Perot are identical and are separated by 
+material with a refractive index of . 
+5 . 1=n
+(a) (5 points)  What is the requirement for the free spectral ra nge of the Fabry-Perot filter to be used for 
+selecting 1 of these 40 channels? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4(b) (15 point)  Choose the length Lof the Fabry-Perot cavity and th e reflectivity of the mirrors, R, that 
+can be used for extracting the channel at 194 THz .  We have the constraint that R cannot 
+exceed 99% . If you think that the answer to this pr oblem is not unique, give a combination of L and 
+R that will work. 
+ 
+ 5(b) continued 
+ 6Problem 2: ABCD Matrices  
+(12 points)  
+ 
+In each figure below, we have an input plane a nd an output plane separated by some unknown optical 
+elements.  The arrows in these figures denote optical  rays.  What can you say about the matrix elements 
+of each optical syst em’s ABCD matrix? 
+ 
+(a) (3 points)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input plane Output plane 
+(b) (3 points)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input plane Output plane 
+ 7 
+(c) (3 points) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input plane Output plane 
+(d) (3 points) 
+ 
+ 
+ 
+ 
+ 
+Input plane Output plane 
+ 8Problem 3: Gaussian Beams and Resonators 
+(5 points) 
+Suppose you have a resonator with identical mirrors as shown below. If we increase the radius of 
+curvature of both mirrors but don’t  modify the resonator length, will th e waist radius of the resonator 
+mode increase or decrease?  Why? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9Problem 4: Polarization of Light 
+(8 points) 
+A plane electromagnetic wave propagates in free space along the positive z-axis. The electric field 
+vector of the wave is given as 
+ 
+ y y x x e z k t E e z k t E t z Er r r
+) cos( ) cos( ) , (0 0 ϕ ω ω + − + − =  (1) 
+with 
+ 2 /πϕ= , x y E E0 0 3=  
+ 
+(a) (3 point) What is the polarization of the wave i.e. is the light linearly polarized, circularly polarized, 
+or elliptically polarized?  
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (15 points) We would like to transform this wave  into a circularly polarized wave using one or 
+several half-wave and/or quarter-w ave plates. Give a sequence of half-wave and quarter-wave plates 
+and their rotation angles with respect to the x-axis such that the output is circularly polarized. If the 
+answer is not unique, please give at  least one combination that works.  
+ 10(b) continued 
+ 11Problem 5: Harmonic Oscillator 
+(20 points)  
+In class, we determined the wave functions, ()nxψ , of a one dimensional harmonic oscillator with 
+22 1()2Vx m x ω = .    Below are the solutions for the first 4 modes: (note n indica tes the state number) 
+ 
+ 
+      Now consider a new potential defined as: 
+ 
+                                                  220
+() 102for x
+Vx
+mx f o r xω∞<⎧⎫⎪⎪=⎨⎬>⎪⎪⎩⎭ 
+ 
+      This is a model potential for a spri ng which can only be extended but not compressed. 
+ 
+ 12(a) (5 points) Sketch the eigenfunctions of the ground and first excited  state of this new potential. These 
+are the first two states of this new oscillat or. We will call these normalized eigenfunctions 1()xφ and 
+2()xφ . 
+ 
+Hints: It is not necessary to solve the Sc hrödinger Equation. Consider the value of nφat x = 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (5 points) Suppose at t = 0 th e state of this system is 
+ 
+()121(, 0 ) () ()
+2xtxφφ == + xφ . 
+ 
+ What is the time dependant wave function, (,)xtφ , for t > 0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13(c) (5 points) If we measure the energy at a time t > 0, what is the expected  value of the energy?  
+Express your answer in terms of ωh. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) (5 points) What is the uncertainty associated with measuring energy?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14Problem 6: Operators and Commutators  
+(10 points) 
+We are given an operator b such that 
+†ba aμ υ =+  
+where a is the creation operator, is the annihilati on operator, and μ and υ are real constants related by 
+.   †a
+221 μυ−=
+ 
+ 
+(a) (5 points) Show that . ††,,bb aa⎡⎤ ⎡ =⎣⎦ ⎣⎤⎦
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (5 points) If ()† 1
+2X bb =+  and (†
+2jPb )b = −, are X and P Hermitian?  Justify your answer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15Problem 7: Two-Level Atom 
+(15 points) 
+(a) (6 points) You are given a 2-level atom in a re sonant interaction with a monochromatic, classical, 
+electromagnetic wave.  The levels of th is system are separated by an energy (E e-Eg) and initially the 
+atom is in the excited  state.  Sketch the evolution of the oc cupation probabilities  of the ground and 
+excited states.  Label your sket ches appropriately and physically interpret this time evolution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (9 points) We f ound for the average dipole moment and inversi on of an ensemble of two level atoms, 
+the following equations of motion: 
+21
+eg djTω•⎛⎞=−⎜
+⎝⎠d⎟   and   0
+1wwwT• −=− . 
+ 
+(i) What do the time constants T 1 and T 2 represent?  In real systems, which value is most often 
+smaller and why? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+(ii) What does the term w0 represent?  At thermal equilibrium, is w0 positive or negative?  Justify 
+your answer.  
+ 
+ 
+ 
+ 
+ 17Problem 8: Laser 
+(25 points) 
+We will consider the ring laser shown in the figure below. It has the following parameters:  
+stimulated emission cross section: , upper state lifetime19 231 0 cm σ−=⋅ 3L s τ μ= , effective mode cross 
+sectional area , cavity length 410effA−=2c m 1Lm= , output coupling mirror tr ansmission 1%, V is the 
+volume of the laser mode V = A eff · L, and τp the photon lifetime. 
+ 
+ 
+ 
+The reduced rate equations for the population in the upper laser level, , in the four level laser 
+material and the photon number, , in the laser mode are 2N
+LN
+        
+()2
+22
+21
+11LP
+L
+L
+LL
+pdN cNN Ndt V
+dN cNN Ndt VRσ
+τ
+σ
+τ=− − ⋅ +
+=− + ⋅ +                                                            (1)    
+Where  is the pump rate of the laser and  is the speed of light which shall be for 
+simplicity equal to the group velo city in the laser material. PR831 0 /cm=⋅ s
+ 
+(a) (5 points) Give a physical interpretation of each of the terms in equation (1). 
+ 
+21:
+LNτ−  
+ 
+2 :LcNNVσ−⋅  
+ 
+ 18:PR 
+ 
+1:L
+pNτ−  
+ 
+2:cNVσ+  
+ 
+(b) (5 points) Determine the minimum pump rate, , necessary to reach the lasing threshold. How 
+much pump power does this pump rate correspond to , if optical pumping with photons with 532nm 
+wavelength would be used? PR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19(c) (5 points) Let’s assume now, that the laser has in  addition to the losses due to output coupling also 
+internal losses of 0.5%.  Derive an expression for th e output power for the laser as a function of the laser 
+saturation power, the small signal gain per roundtrip,  the internal losses and the output coupling mirror 
+transmission, T.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) (10 points) For a given small-si gnal gain per round-trip, what is the optimum output  coupling mirror 
+transmission T to achieve maximum output power.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 20(d) continued 
+ 21Problem 9: Three-Level System 
+(Graduate problem , 25 points) 
+Consider an atom with three energy levels as shown in the figure. 
+The pump at frequency hE Efp1 3−=  causes stimulated tran-
+sitions between the 1st and the 3rd levels; the cross-section of this 
+process is31σ. The 3rd level exhibits a spont aneous decay rate to 
+the 2nd level of32γ. The second level is long-lived with a sponta-
+neous decay rate of32 21γ γ< . With sufficient pumping, population 
+inversion can be achieved between levels 2 and 1 so that the light 
+at frequencyhE EfL1 2−=  will be amplified. The cross-section of 
+stimulated transitions between levels 2 and 1 is 21σ. 
+ 
+ 
+(a) (8 points)  In some systems of practical interest the relaxation from the 3rd to the 2nd level is not fast 
+enough to ignore the population of the 3rd level. Write the rate equations for the number of atoms in 
+levels 1, 2, and 3, , , and . The pump intensity is . Assume that the intensity at 
+frequency  is 1N2N3NpI
+Lf very small  so that it does not change the popul ation of the energy levels. The total 
+number of atoms is N. 
+ 
+ 
+ 
+ 
+ 
+ 22(b) (8 points) Find the steady-state popula tion of the second level . 2N
+ 
+ 
+ 
+ 
+ 23(c) (2 points) What is the population of the 2nd le vel for very large pump intensity? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the remaining two questions, consider the case of very fast relaxation from the 3rd level, 21 32γ γ>> . 
+(d) (2 points)  What is the population of the 2nd level for very large pump intensity? Explain the physical 
+difference between this answer  and that of part (c).  
+ 
+ 
+ 24(e) (5 points)  What is the lowest pump intensity needed to achieve amplification? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25Equation Sheets 
+ 
+Maxwell’s Equations 
+tBE∂∂− = × ∇rr JtDHrrr
++∂∂= × ∇  
+  ρ= ⋅ ∇Dr
+0= ⋅ ∇Br
+ 
+ 
+Material Equations E P E Drrrr
+ε ε= + =0  E Perr
+χ ε0=  ) 1 (0 eχ εε + =  
+H M H Brrrr
+μ μ μ= + =0 0  H Mmrr
+χ=  ) 1 (0 mχ μμ + =  
+Index of Refraction 21n χ =+ , for χ << 1:   2 / 1χ+≈n  
+Poynting Vector H E Srrr
+× = *
+21H E Trrr
+× =  
+Energy density 2
+21E wer
+ε=  2
+21H wmr
+μ=   m ew w w+ =
+Snell’s Law 11 2sin sinnn2 θ θ =  
+Brewster’s Angle 
+12tannn
+B=θ  
+Reflectivity TE TETE TE
+TE
+Z ZZ Zr
+2 11 2
++−=  TM TMTM TM
+TM
+Z ZZ Zr
+2 12 1
++−= 
+ 
+2 / 1 2 / 12 / 1
+2 / 1cos1
+θ εμ=TEZ  2 / 1
+2 / 12 / 1
+2 / 1 cosθεμ=TMZ  
+ 
+2 2 1 12 2 1 1
+cos coscos cos
+θ θθ θ
+n nn nrTE
++−=  
+11
+2211
+22
+cos coscos cos
+θ θθ θ
+n nn n
+rTM
++−
+=   
+Transmitivity TE TETE
+TE
+Z ZZt
+2 122
++=  TM TMTM
+TM
+Z ZZt
+2 112
++=  
+ ) cos( ) cos() cos( 2
+2 2 1 11 1
+θ θθ
+n nntTE
++=  
+) cos( ) cos() cos(2
+11
+2222
+θ θθ
+n nn
+tTM
++=  
+Power Refl. Coef. 2TE TEr R=  2TM TMr R=  
+Power Transm. Coef. 2
+2 12 1
+212 4
+TE TETE TE
+TETE
+TE TE
+Z ZZ Z
+ZZt T
++= =    2
+2 12 1
+122 4
+TM TMTM TM
+TMTM
+TM TM
+Z ZZ Z
+ZZt T
++= =  
+ 
+ 26Pulse Dispersion  22) , (
+2) , (
+tt z A kjzt z A
+′∂′ ∂′ ′=∂′ ∂ 
+Gaussian Pulse 2
+21 ) ( ⎟⎠⎞⎜⎝⎛′ ′+ =ττ τL kL  τ τ 2 ln 2 =FWHM  
+Fabry Perot ) 2 / ( sin 4 ) 1 () 1 (
+2 22
+2
+21φ R RRS+ −−=  where kL2=φ , ncfk
+02π=  
+ nLcm fm20=    nLcFSR20=  
+ 
+FWHMfFSRFΔ=    R RRF−≈−=1 1π π 
+Beam Splitter S-matrix rj tSjtr⎛⎞=⎜⎝⎠⎟, with 221 rt+= 
+ 
+Gaussian Beams ⎥⎦⎤
+⎢⎣⎡+ − − = ) () ( 2 ) (exp
+) (2) , (2
+0 22
+z jz Rrjkz wr
+z wPz r E ζ
+π 
+ 2
+01 ) (⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛+ =
+Rzzw z w  
+⎥⎥
+⎦⎤
+⎢⎢
+⎣⎡
+⎟
+⎠⎞⎜
+⎝⎛+ =2
+1 ) (zzz z RR
+ 
+ ⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛=
+Rzzzarctan ) ( ζ   ⎥⎦⎤
+⎢⎣⎡− =) (2exp
+) () , (2 20
+0z wr
+z wwI z r I2 2
+ 
+ λπ2
+02
+0
+2w w kzR = =  
+0wπλθ=  
+ 
+q-parameter     Rjz z z q+ = ) () ( ) (1
+) (1
+2z wjz R z q πλ− =  
+ ⎥⎦⎤
+⎢⎣⎡− =) ( 2exp) (1) , (2
+0z qrjkz qz r E  
+Resonator Stability 1 02 1≤ ≤g g
+111RLg − =  
+221RLg − =  
+Schrodinger’s Equation 2(,)(,) () (,)2dr tj rt Vr rtdt mΨ=− Δ Ψ + Ψhh  
+Harmonic Oscillator 1
+2En ω⎛⎞=+ ⎜⎟⎝⎠h  
+ 27Heisenberg’s Uncertainty Principle  2xpΔΔ≥h 
+de Broglie’s Formula  p k=h 
+Einstein’s Energy/Frequency Relation  E ω=h 
+Wien’s Law  3
+38()hf
+kThfwf ecπ −=  
+Wien Displacement Law  max4.965hc
+kTλ=  
+Rayleigh-Jeans Law  2
+38()wf fk Tcπ=  
+Planck’s Law  2
+38()
+exp 1fh fwfhf c
+kTπ=
+− 
+Einstein’s A and B Coefficients  3
+21
+21 12 38fABcπ=  21 12BB=  
+ 
+Waveguide Coupling   ⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛
+⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛Δ+ = z z P z P γγβγ22
+2
+1 1 sin cos ) 0 ( ) (  
+ 
+ ) ( sin| |) 0 ( ) (2
+22
+21
+1 2 z P z P γγκ=  2
+122| |κ β γ+ Δ =  22 1β ββ−= Δ  22 1
+0β ββ+=  
+ 
+Polarization, Retardation Plate   
+⎟⎟⎟⎟
+⎠⎞
+⎜⎜⎜⎜
+⎝⎛
++ ⎟
+⎠⎞⎜
+⎝⎛Γ−⎟
+⎠⎞⎜
+⎝⎛Γ− +
+=Γ Γ −Γ Γ −
+ψ ψ ψψ ψ ψ
+2 2 / 2 2 /2 2 / 2 2 /
+cos sin ) 2 sin(2sin) 2 sin(2sin sin cos
+j jj j
+e e jj e e
+W  
+ 
+ if π= Γ: ⎟⎟
+⎠⎞
+⎜⎜
+⎝⎛
+−− =) 2 cos( ) 2 sin() 2 sin( ) 2 cos(
+ψ ψψ ψj W 
+ 
+ if 2π= Γ: 
+⎟⎟⎟⎟
+⎠⎞
+⎜⎜⎜⎜
+⎝⎛
++ −− −
+=
+)] 2 cos( 1 [
+21) 2 sin(
+21) 2 sin(
+21)] 2 cos( 1 [
+21
+ψ ψψ ψ
+j jj j
+W  
+Rabi Frequency  *
+02p
+rMeE Ω=uu ruur
+
+h 
+ 28Annihilation and Creation Operators  †,1aa⎡ ⎤=⎣ ⎦ 
+Bloch Equations  *
+21jt
+eg r dj d j eTωω ω• ⎛⎞=− − + Ω⎜⎟
+⎝⎠ 
+  ** 0
+122jt jt
+rrje d je dTωω ωωω•− −=− + Ω − Ω  
+Trigonometric Identities   α α α cos sin 2 2 sin =      α α α2 2sin cos 2 cos− =
+  ) cos(21) cos(21sin sin β α β α β α+ − − =  
+  ) cos(21) cos(21cos cos β α β α β α+ + − =  
+  ) sin(21) sin(21cos sin β α β α β α− + + =  
+  ) sin(21) sin(21sin cos β α β α β α− − + =  
+ 
+Helpful Integrals   adx ex a π= ∫∞
+∞ −−2  02= ∫∞
+∞ −−dx xex a
+  32
+21 2
+adx e xx a π= ∫∞
+∞ −− 
+ C d + − = ∫α α α α α αcos sin sin  
+ C d + − = ∫α α α α α αsin cos cos  
+ 
+Constants    εo = 8.85 × 10-12 C2/Nm2 permittivity of free space 
+   μο = 4π × 10-7 N/A2  permeability of free space 
+   m = 9.11 ×  10-31 kg  mass of an electron 
+   e = 1.60 ×  10-19 C  charge of an electron 
+  k  = 1.380650 × 10-23 J/K Boltzmann's constant  
+  c0 = 2.997925 × 108 m/s speed of light in free space  
+ 29",True,True,1,1,0,False,1,False,True,True
+37,15-501-introduction-to-financial-and-managerial-accounting-spring-2004,"15.501/516 
+Final Examination 
+December 18, 2002 
+Student Name: __________________________________________________ 
+School: __________________________________________________ 
+Professor: ___________________________________________________ 
+♦	The exam consists of 13 numbered page s. Be sure your c opy is not missing any 
+pages. 
+♦	There are 125 points in total -- point alloca tions are stated at the beginning of each 
+question. You have 3 hours.  Budget your time well . We suggest you quickly go 
+over the entire exam first before starting. 
+♦	Write your answers in the space provided, and show any computations you make. 
+♦	Write as legibly as possible -- we can't grade what we can't read! 
+♦	If a question is unclear, make an appropria te assumption that does not contradict any 
+information given in the question. 
+GOOD LUCK !! 
+1 I. Interpreting the statement of cash flows. (10 points)  
+The following exhibit presents the statemen t of cash flows for Nike, Inc., maker of 
+athletic shoes, for three recent years. 
+Nike Inc.: Statement of Cash Flows 
+(amounts in millions) Year 1 Year 2 Year 3 
+Operations 
+Net income 167 243 297 
+Depreciation and amortization 15 17 34 
+Other Addbacks/Subtractions (5) 5 3 
+Working Capital provided by Operations 177 265 324 
+(Increase) Decrease in Accounts Receivable (38) (105) (120) 
+(Increase) Decrease in Inventories (25) (86) (275) 
+(Increase) Decrease in Other Operating Current Assets (2) (5) (6) 
+(Increase) Decrease in Accounts Payable 21 36 59 
+(Increase) Decrease in Other Operating Current Liabilities 36 22 32 
+Cash Flow from Operations 169 127 14 
+Investing 
+Sale of Property, Plant and Equipment 3 1 2 
+Acquisition of Property, Plant and Equipment (42) (87) (165) 
+Acquisition of Investment (1) (3) (48) 
+Cash Flow from Investing (40) (89) (211) 
+Financing 
+Increase in Short-term Debt 0 0 269 
+Increase in Long-term Debt 0 1 5 
+Issue of Common Stock 3 2 3 
+Decrease in Short-term Debt (96) (8) 0 
+Decrease in Long-term Debt (4) (2) (10) 
+Dividends (22) (26) (41) 
+Cash Flow from Financing (119) (33) 226 
+Change in Cash 10 5 29 
+Cash, Beginning of the Year 74 84 89 
+Cash, End of the Year 84 89 118 
+Answer the following questions: 
+1.	Why did Nike experience increasing net in come but decreasing cash flow from 
+operations during this three-year period? (5 points) 
+2 2.	How did Nike finance its investing act ivities during the three-year period? 
+Evaluate the appropriateness of Nike's  choice of financing during Year 3. (5 
+points) 
+3 II. Inventory accounting (10 points) 
+The inventory footnote to the annual report of  Ballistic Brothers & Co. reads in part as 
+follows: 
+Because of continuing high demand throughout the year, inventories were 
+unavoidably reduced and could not be re placed.  Under the LIFO system of 
+accounting, used for many years by Ballistic Brothers & Co., the net effect of all 
+the inventory changes was to increase pretax income by $900,000 over what it 
+would have been had inventories been main tained at their physical levels at the 
+start of the year. 
+The price of Ballistic Brothers & Co.’s merchandise purchases was $26 per unit during 
+the year, after having risen erratically over past years.  Ballistic Brothers & Co.’s 
+inventory positions at the beginning and the end of the year appear below: 
+Date Physical Count of Inventory LIFO Cost of Inventory 
+January 1st 200,000 units ?
+December 31st 150,000 units $600,000 
+Answer the following questions: 
+11. What was the average cost  per unit of the 50,000 units removed from the January 
+st inventory? (5 points) 
+2. What was the January 1st LIFO cost of inventory? (5 points) 
+4 III. Accounting for bonds (25 points) 
+On January 1, 1985, First National Bank (FNB) acquired $10 million of face 
+value bonds issued on that date  by Metro Area Inc. The bo nds carried 12 percent annual 
+coupons and were to mature 20 years from th e issue date. Metro Ar ea Inc. issued the 
+bonds at par. 
+By 1990, Metro Area Inc. was in severe financial difficulty and threatened to 
+default on the bonds. After much negotiation with FNB (and other creditors), it  agreed to 
+repay the bond issue but only on less burdensome terms. Metro Area Inc. agreed to pay 5 
+percent per year, i.e., annually , for 25 years and to repay the principal on January 1, 2015, 
+or 25 years after the negotia tion. FNB will receive $500,000 every year starting January 
+1, 1991, and $10 million on January 1, 2015.  
+By January 1, 1990, Metro Area Inc. wa s being charged 20 percent per year, 
+compounded annually, for its new long-term borrowings. 
+Remember that the theoretical present va lue factor of an ordinary annuity is: 
+(PV annuity, n years, i%) = 1-(1+i)-n
+ i 
+and answer the following questions: 
+1.	At what value is Metr o Area’s bond recorded on  FNB’s balance sheet before the 
+renegotiations? ( Hint: FNB holds the bond as an investment and values the 
+investment at present value.  The account ing treatment of th is investment in 
+Metro Area’s bond mirrors the treatment of the bond in Metro Area’s balance 
+sheet.) (5 points) 
+2.	Determine the value of the bonds that FNB holds at the time of renegotiations 
+using the market interest ra te at the time of initial issue, 12 percent, compounded 
+annually. In other words, what is the present value of the newly promised cash payments discounted at Metro Ar ea’s historical borrowing rate? (5 points) 
+5 3.	Consider two accounting treatments for th is negotiation (calle d a ""troubled debt 
+restructuring"" by the FASB in its Statement of Financial Accounting Standards 
+No. 114). (10 points) 
+Scenario a: Write down the bonds to the value computed in part 2, and base 
+future interest revenue co mputations on that new book value and the historical 
+interest rate of 12 percen t per year, compounded annually. 
+Scenario b: Make no entry to record the negotiation, and r ecord interest 
+revenue as the amount of cash, $500,000, that FNB receives annually.   
+Record using the balance sheet equation  the transactions that take place on 
+January 1, 1990 and January 1, 1991 under each of the two alternatives.   
+Scenario a Cash Investment Other Liabilities Equity 
+in Assets 
+Bonds 
+1/1/1990 
+1/1/1991 
+Scenario b Cash Investment Other Liabilities Equity 
+in Assets 
+Bonds 
+1/1/1990 
+1/1/1991 
+4.	Which of the two methods listed in 3 best reflects the economic events that take 
+place during and after the debt restructuring?   Can you think of a third method to 
+record the effect of  the renegotiations? (5 points) 
+6 IV. Cost Accounting (15 points) 
+The Tyson Company buys chickens and disa ssembles them into fillets, wings and 
+drumsticks.  Suppose a whole chicken cost $1.6 each, and on average weighs 32 ounces. 
+The cost to process each chicken into pa rts is $0.40 per chicken.  Once the parts are 
+obtained, separate processing is necessary to obtain marketable fillets, wings, and 
+drumsticks.  The fillets obtained from the chicken on average weigh 16 ounces, the wings 
+weigh 4 ounces and the drumsticks weigh 12 ounces.  Each part must be cleaned, 
+inspected and packaged. The costs of cl eaning and packaging fillets, wings and 
+drumsticks are $0.8, $0.16 and $0.04 respectively per chicken.  Once cleaned and 
+packaged, the fillets can be sold for $2.4, wings for $0.3 and drumsticks for $0.8.   
+Answer the following questions: 
+1.	What is the common cost per chicken shared by all three of Tyson’s product lines (i.e., fillet, wings and drumsticks)?  Allo cate the cost to the three products based 
+on weights, and show the re lated profits (losses).  (5 points) 
+2. The management is contemplating dr opping chicken wings and only producing 
+fillets and drumsticks.  Do you agree? Why or why not? (10 points) 
+7 V. Leases (25 points) 
+On January 1, 2001, Kruder Products, as lessee, leases a machine used in its operations. 
+Kruder uses straight line deprec iation for all of its  equipments.  The annual lease payment 
+of $10,000 is due on Dec 31 of 2001, 2002 and 2003.  The machine reverts to the lessor at the end of three years.  The lessor can either sell the machine or lease it to another firm 
+for the remainder of its expected total useful  life of five years. The interest rate 
+appropriate for Kruder Products is 12 percent annually.  The market value of the machine 
+at the inception of the lease is $30,000. 
+1.	Is this lease an operating lease or a capital lease? (5 points) 
+2.	Assume  this lease qualifies as an operating lease.  What are the expenses recorded 
+for the lease in 2001, 2002 and 2003? (5 points) 
+3.	Assume this lease qualifies as a capital lease.   What are the expenses recorded for 
+the lease in 2001? (5 points) 
+4.	Which of the above methods, i.e., operat ing vs. capital lease results in a higher 
+ROA (return on assets=income/average assets) in 2002 ?  Which method results in 
+a higher leverage (liability/ shareholder’s equity) in 2002? Why? (5 points) 
+5. Which of the above methods, i.e., operat ing vs. capital lease results in a higher 
+Cash Flow from Operations in 2001 ? Why? (5 points) 
+8 VI. Miscellaneous issues (20 points) 
+CBC Corporation is searching for ways to improve its performance. The head of 
+marketing wants to offer larger sales discount s to repeat customers, while the head of 
+operations wants reduce shippi ng and handling costs.  The company's controller thinks 
+there could also be an ""accounting answer""-- his idea is to reduce the estimated life of 
+packaging and delivery equipment in order to increase the amount of depreciation 
+expense. He believes this would improve cash flow because depr eciation expense is 
+""added back"" on the statement of cash flows. 
+CBC Corporation’s 2002 income statement and sele cted balance sheet accounts appear below.  
+Income Statement (selected items) 
+Sales $135,000 
+Cost of goods sold (90,000) 
+Selling and admin.expenses (inclu des $8,000 depreciation)  (25,000) 
+Gain on sale of equipment * 10,000 
+Interest expense (5,000) 
+Income taxes (5,000) 
+Net income  $20,000 
+*Equipment had an original cost of $35,000; selling price was $18,000. 
+Balance Sheet (selected items)
+ 12-31-02 01-01-02 
+(Ending)  (Beginning) 
+Cash $14,000 $21,000 
+Accounts receivable 40,000 30,000 
+Merchandise inventories 55,000 61,000 
+Prepaid expenses 5,000 8,000 
+Accounts payable 35,000 40,000 
+Deferred revenue 15,000 12,000 
+Other liabilities 5,000 3,000 
+1. Determine the accumulated depreciation on the equipment sold in 2002? (5 points) 
+9 2.	CBC deferred $5000 of their revenue to 2003 becau se the merchandise has not yet been 
+shipped although the customers already paid in cash.  Does deferring the revenue result in 
+a deferred tax asset or liability?  Why? (5 points) 
+3.	How much cash was paid to merchandise suppliers in 2002? (5 points) 
+4.	Use the chart below to indicate how increa sing depreciation expe nse would affect the 
+financial statements.  Use  + for increase, - for decrease, and NE fo r no effect.  How do 
+you like the controller’s accounting solution? (5 points) 
+Operating 
+Cash Flow Net Income Total Assets Total 
+Liabilities  Total Stock­ Holders’ Equity 
+10
+VII. Consolidation (20 points) 
+The Coca Cola Company [ KO] owns 44% of Coca Cola Enterprises [ CCE ], one of its anchor 
+bottlers. Since its ownership percentage is lo wer than 50%, KO accounts for its investment in 
+CCE using the equity method.  Analysts ha ve pointed out though that KO has a dominant 
+influence on CCE and that to reflect the true economics of the relation between both companies, 
+KO ought to consolidate  CCE, rather than use the equity method. 
+a)	 Consider the simplified balance sh eets of both KO and CCE on 12/31/Y1 on the 
+following page . Using the information about the ow nership percentage of KO in CCE, 
+that is 44%, consolidate CCE’s accounts into KO’s.  Notice that we have already started 
+the consolidation. You just need to complete  the consolidated balance sheet.  ( Hint: you 
+need to first eliminate intra-company acc ounts, i.e., amounts CCE owns KO or vice 
+versa before you can carry out the consolidation). 
+Show all calculations. (10 points) 
+11
+The Coca Cola Company a nd Coca Cola Enterprises 
+Simplified Balance Sheets (12/31/Y1) 
+ASSETS KO CCE Consolidated 
+Current Assets 
+Cash and MS 
+Accounts receivable 
+Amounts due from the Coca Cola Co . 
+Inventories 1,315 8 1,323 
+1,695 510 2,205 
+0 6 ______ 
+1,117 225 1,342 
+Equity method investments 
+Coca Cola Enterprises 556 0 ______ 
+PPE, ne t 4,336 2,158 6,494 
+Intan gibles 944 5,924 ______ 
+Other Assets 5,078 233 5,311 
+Total assets 15,041 9,064 23,481 
+LIABILITIES 
+Current liabilities 
+Accounts Payable 4,425 796 ______ 
+Notes Payable 2,923 63 2,986 
+Non-current liabilities 
+Long-term debt 1,141 4,138 5,279 
+Other non-current liabilities 966 630 1,596 
+Deferred income taxes 194 2,032 2,226 
+Minorit y Interes t 0 0 ______ 
+EQUITY 
+Common stoc k 428 145 ______ 
+APIC 1,291 1,116 ______ 
+Retained earnings 3,673 144 ______ 
+Total liabilities + equit y 15,041 9,064 23,481 
+12 b) Consider now the following intra-compa ny sales during the same fiscal year: 
+KO paid CCE $2,424 (i.e., booked as revenue for CCE and COGS for KO) 
+We also have the following excerpts from the published income statements of both 
+companies in fiscal Y1: 
+KO CCE 
+Sales 18,018 6,773 
+COGS 6,940 4,267 
+Gross Profit 11,078 2,506 
+The gross profit for KO is computed with CCE treated as an equity investment.  Based on 
+our information, what would have been KO’s gross profit if it had consolidated CCE 
+rather than used the equity method? (5 points ) 
+c)	 CCE reports a net income of $82 in its publis hed income statement of fiscal Y1.  KO 
+reports a net income of $2,986 in its published income statement of fiscal Y1, after 
+incorporating the results of  CCE using the equity method.  What would be the net 
+income of KO in Y1 if it had consolidated CCE rather than used the equity 
+method ?  Explain why. (5 points) 
+13
+",True,True,1,1,0,False,1,False,True,True
+38,15-501-introduction-to-financial-and-managerial-accounting-spring-2004,"15.501/516 
+Final Examination 
+December 18, 2002 
+Student Name: __________________________________________________ 
+School: __________________________________________________ 
+Professor: ___________________________________________________ 
+♦	The exam consists of 13 numbered page s. Be sure your c opy is not missing any 
+pages. 
+♦	There are 125 points in total -- point alloca tions are stated at the beginning of each 
+question. You have 3 hours.  Budget your time well . We suggest you quickly go 
+over the entire exam first before starting. 
+♦	Write your answers in the space provided, and show any computations you make. 
+♦	Write as legibly as possible -- we can't grade what we can't read! 
+♦	If a question is unclear, make an appropria te assumption that does not contradict any 
+information given in the question. 
+GOOD LUCK !! 
+1 I. Interpreting the statement of cash flows. (10 points)  
+The following exhibit presents the statemen t of cash flows for Nike, Inc., maker of 
+athletic shoes, for three recent years. 
+Nike Inc.: Statement of Cash Flows 
+(amounts in millions) Year 1 Year 2 Year 3 
+Operations 
+Net income 167 243 297 
+Depreciation and amortization 15 17 34 
+Other Addbacks/Subtractions (5) 5 3 
+Working Capital provided by Operations 177 265 324 
+(Increase) Decrease in Accounts Receivable (38) (105) (120) 
+(Increase) Decrease in Inventories (25) (86) (275) 
+(Increase) Decrease in Other Operating Current Assets (2) (5) (6) 
+(Increase) Decrease in Accounts Payable 21 36 59 
+(Increase) Decrease in Other Operating Current Liabilities 36 22 32 
+Cash Flow from Operations 169 127 14 
+Investing 
+Sale of Property, Plant and Equipment 3 1 2 
+Acquisition of Property, Plant and Equipment (42) (87) (165) 
+Acquisition of Investment (1) (3) (48) 
+Cash Flow from Investing (40) (89) (211) 
+Financing 
+Increase in Short-term Debt 0 0 269 
+Increase in Long-term Debt 0 1 5 
+Issue of Common Stock 3 2 3 
+Decrease in Short-term Debt (96) (8) 0 
+Decrease in Long-term Debt (4) (2) (10) 
+Dividends (22) (26) (41) 
+Cash Flow from Financing (119) (33) 226 
+Change in Cash 10 5 29 
+Cash, Beginning of the Year 74 84 89 
+Cash, End of the Year 84 89 118 
+Answer the following questions: 
+1.	Why did Nike experience increasing net in come but decreasing cash flow from 
+operations during this three-year period? (5 points) 
+NIKE’s growth in sales and net income led to increases of  account receivable 
+and inventories. NIKE, however, did not increase its accounts payable and 
+other current operating lia bilities to help finan ce the buildup in current 
+assets. Thus, its cash flow from operations decreased. 
+2 2.	How did Nike finance its investing act ivities during the three-year period? 
+Evaluate the appropriateness of Nike's  choice of financing during Year 3. (5 
+points) 
+NIKE used cash flow from operations during Year 1 and Year 3 to finance its 
+investing activities. The excess cash flow afte r investing activities served to repay 
+short- and long-term debt and pay dividends. Cash flow form operations during Year 3 was insufficient to finance investing activities. NIKE engaged in short-term 
+borrowing to make up the shortfall and finance the payment of dividends. 
+Operating cash flows should generally fi nance the payment of dividends. Either 
+operating cash flows or long-term sources of capital should  generally finance 
+acquisitions of property, pl ant and equipment. Thus, NI KE’s use of short-term 
+borrowing seems inappropriate. One might justify such an action if NIKE (1) 
+expected cash flow from operations during Year  4 to return to its historical levels, 
+(2) expected cash outflows for property, plant and equipment to decrease during 
+Year 4, or (3) took advantage of compar atively low short-term borrowing rates 
+during Year 3 and planned to refinance th is debt with long-term borrowing 
+during Year 4. 
+3 II. Inventory accounting (10 points) 
+The inventory footnote to the annual report of  Ballistic Brothers & Co. reads in part as 
+follows: 
+Because of continuing high demand throughout the year, inventories were 
+unavoidably reduced and could not be re placed.  Under the LIFO system of 
+accounting, used for many years by Ballistic Brothers & Co., the net effect of all 
+the inventory changes was to increase pretax income by $900,000 over what it 
+would have been had inventories been main tained at their physical levels at the 
+start of the year. 
+The price of Ballistic Brothers & Co.’s merchandise purchases was $26 per unit during 
+the year, after having risen erratically over past years.  Ballistic Brothers & Co.’s 
+inventory positions at the beginning and the end of the year appear below: 
+Date Physical Count of Inventory LIFO Cost of Inventory 
+January 1st 200,000 units ?
+December 31st 150,000 units $600,000 
+Answer the following questions: 
+11. What was the average cost  per unit of the 50,000 units removed from the January 
+st inventory? (5 points) 
+$8. Cost of goods sold was $900,000 lower than it would have been had the firm 
+maintained inventories at 200,000 units. The average  cost of the 50,000 units 
+removed from the beginning invento ry was $18 (= $900,000/50,000 units) less than 
+current cost: $26 - $18 = $8 
+2. What was the January 1st LIFO cost of inventory? (5 points) 
+$1,000,000. Derived as follow: $8 X 50,000 units  = $400,000 decline in inventory 
+during the year. Beginning inventory must have been $400,000 + $600,00 (ending 
+inventory) = $1,000,000. 
+4 III. Accounting for bonds (25 points) 
+On January 1, 1985, First National Bank (FNB) acquired $10 million of face 
+value bonds issued on that date  by Metro Area Inc. The bo nds carried 12 percent annual 
+coupons and were to mature 20 years from th e issue date. Metro Ar ea Inc. issued the 
+bonds at par. 
+By 1990, Metro Area Inc. was in severe financial difficulty and threatened to 
+default on the bonds. After much negotiation with FNB (and other creditors), it  agreed to 
+repay the bond issue but only on less burdensome terms. Metro Area Inc. agreed to pay 5 
+percent per year, i.e., annually , for 25 years and to repay the principal on January 1, 2015, 
+or 25 years after the negotia tion. FNB will receive $500,000 every year starting January 
+1, 1991, and $10 million on January 1, 2015.  
+By January 1, 1990, Metro Area Inc. wa s being charged 20 percent per year, 
+compounded annually, for its new long-term borrowings. 
+Remember that the theoretical present va lue factor of an ordinary annuity is: 
+(PV annuity, n years, i%) = 1-(1+i)-n
+ i 
+and answer the following questions: 
+1.	At what value is Metr o Area’s bond recorded on  FNB’s balance sheet before the 
+renegotiations? ( Hint: FNB holds the bond as an investment and values the 
+investment at present value.  The account ing treatment of th is investment in 
+Metro Area’s bond mirrors the treatment of the bond in Metro Area’s balance 
+sheet.) (5 points) 
+$10 million (issued at par) 
+2.	Determine the value of the bonds that FNB holds at the time of renegotiations 
+using the market interest ra te at the time of initial issue, 12 percent, compounded 
+annually. In other words, what is the present value of the newly promised cash payments discounted at Metro Ar ea’s historical borrowing rate? (5 points) 
+500,000 * (PV factor annuity, 12%, 25 years) = 500,000 * 7.843 = 3,921,570 10,000,000*(PV factor, 12%, 25 years) = 10,000,000 * 0.059 =  
+588,233
+ 4,509,803 
+3.	Consider two accounting treatments for th is negotiation (calle d a ""troubled debt 
+restructuring"" by the FASB in its Statement of Financial Accounting Standards 
+No. 114). (10 points) 
+Scenario a: Write down the bonds to the value computed in part 2, and base 
+future interest revenue co mputations on that new book value and the historical 
+interest rate of 12 percen t per year, compounded annually. 
+5 Scenario b: Make no entry to record the negotiation, and r ecord interest 
+revenue as the amount of cash, $500,000, that FNB receives annually.   
+Record using the balance sheet equation  the transactions that take place on 
+January 1, 1990 and January 1, 1991 under each of the two alternatives.   
+Scenario a Cash Investment Other Liabilities Equity 
+in Assets 
+Bonds 
+1/1/1990 
+1/1/1991 
+(5,490,197) (5,490,197) 
+500,000 41,176 541,176 a 
+a 12% * (10,000,000-5,490,197)=12% * 4,509,803 
+Scenario b Cash 	 Investment Other Liabilities Equity 
+in Assets 
+Bonds 
+1/1/1990 
+1/1/1991 
+0 0 
+500,000 500,000 
+4.	Which of the two methods listed in 3 best reflects the economic events that take 
+place during and after the debt restructuring?   Can you think of a third method to 
+record the effect of  the renegotiations? (5 points) 
+Scenario a reflect part of the loss that FN B incurs during these renegotiations. Scenario 
+b is not a good method since there is an inc onsistency between th e interest revenue 
+received and the value recorded  for the bond on the balance sheet. 
+A better alternative method to record the effect of the negotiations would be to use the 
+current borrowing rate of Metro Area, i.e., 20% to do all the calculations. That is, we 
+would use this 20 % to compute the present value of the bond at the time of renegotiations and then apply this 20% rate  to compute annual interest revenues. 
+6 IV. Cost Accounting (15 points) 
+The Tyson Company buys chickens and disa ssembles them into fillets, wings and 
+drumsticks.  Suppose a whole chicken cost $1.6 each, and on average weighs 32 ounces. 
+The cost to process each chicken into pa rts is $0.40 per chicken.  Once the parts are 
+obtained, separate processing is necessary to obtain marketable fillets, wings, and 
+drumsticks.  The fillets obtained from the chicken on average weigh 16 ounces, the wings 
+weigh 4 ounces and the drumsticks weigh 12 ounces.  Each part must be cleaned, 
+inspected and packaged. The costs of cl eaning and packaging fillets, wings and 
+drumsticks are $0.8, $0.16 and $0.04 respectively per chicken.  Once cleaned and 
+packaged, the fillets can be sold for $2.4, wings for $0.3 and drumsticks for $0.8.   
+Answer the following questions: 
+1.	What is the common cost per chicken shared by all three of Tyson’s product lines 
+(i.e., fillet, wings and drumsticks)?  Allo cate the cost to the three products based 
+on weights, and show the re lated profits (losses).  (5 points) 
+Common Cost to be allo cated is $2 per chicken. 
+Weight  Total  Fillets  Drumsticks Wings 
+32 oz 16 oz 12 oz 4 oz 
+Percent of weight 0.50 0.375 0.125 
+Allocated costs 2*0.50=$1 0.75 0.25 
+Profitability Analysis 
+Sales $3.50 $2.40 $0.80 $0.30 
+Cost beyond split-off point 0.8 0.04 0.16 
+Joint costs allocated   $ 1 0.75 0.25 
+Profit (loss) $0.6 0.01 -0.11 
+2.	The management is contemplating dr opping chicken wings and only producing 
+fillets and drumsticks.  Do you agree? Why or why not? (10 points) 
+They should not  drop the chicken wings.  This is because the joint cost $2 is 
+incurred whether or not the wings are dropped from production.  If wings are 
+dropped, the same $2 has to be allocated to the remaining two products: fillets 
+and drumsticks. As we can see, now we are showing a loss fo r drumsticks.  Should 
+we drop drumsticks, too? This is referred to as the ‘death spiral’ problem.  As we 
+can see before, the total profit (from three product lines ) is $0.5.  Now it is only 
+$0.36. We are worse off without the wings! 
+Total  Fillets  Drumsticks 
+Weight  28 oz  16 oz  12 oz 
+Percent of weight 57%=16/28 43% 
+Allocated costs $1.14 0.86 
+Profitability Analysis 
+Sales $3.50 $2.40 $0.80 
+Cost beyond split-off point 0.8 0.04 
+Joint costs allocated   $ 1.14 0.86 
+Profit (loss) $0.46 -0.10 
+7 V. Leases (25 points) 
+On January 1, 2001, Kruder Products, as lessee, leases a machine used in its operations. 
+Kruder uses straight-line de preciation for all of its e quipments.  The annual lease 
+payment of $10,000 is due on Dec 31 of 2001, 2002 and 2003.  The machine reverts to 
+the lessor at the end of three years.  The lesso r can either sell the machine or lease it to 
+another firm for the remainder of its expected to tal useful life of five  years.  The interest 
+rate appropriate for Kruder Products is 12 percent annually.  The market value of the 
+machine at the inception of the lease is $30,000. 
+1.	Is this lease an operating lease or a capital lease? (5 points) 
+This lease does not satisfy any  of the criteria for a capital lease, so it is an 
+operating lease.  The leases asset reverts to the lessor at the end of the lease 
+period. The life of the lease is less than 75% of the expected us eful life of the 
+asset. The present value of the lease payments is 24,018 (=10,000*2.40183), 
+which is less than 90% of th e market value of the asset. 
+2.	Assume  this lease qualifies as an operating lease.  What are the expenses recorded 
+for the lease in 2001, 2002 and 2003? (5 points) 
+If this is an operating lease, then  the rent expense is $10,000 per year 
+3.	Assume this lease qualifies as a capital lease.   What are the expenses recorded for 
+the lease in 2001? (5 points) 
+The expenses include a depreciation expense and an interest expense.   
+Depreciation expense = 24,018/3 = $8006 
+Interest expense = 24,018*12% = $2882 
+4.	Which of the above methods, i.e., operat ing vs. capital lease results in a higher 
+ROA (return on assets=income/average assets) in 2002 ?  Which method results in 
+a higher leverage (liability/ shareholder’s equity) in 2002? Why? (5 points) 
+The total expense is $10,000 under operating le ase.  Under capital lease, we need 
+to calculate the new depreciation and interest expense for 2002.  Depreciation 
+stays the same at $8006. Interest expense = 16900*12%= $2028. Therefore total 
+expense is higher under capital lease. Furthermore, capital lease is going to 
+result in higher assets in 2001 and 2002.  Therefore, ROA is higher under 
+operating lease. Because capital lease results in higher liability and lower 
+shareholder’s equity, leverage is higher under capital lease. 
+5.	Which of the above methods, i.e., operat ing vs. capital lease results in a higher 
+Cash Flow from Operations in 2001 ? Why? (5 points) 
+Capital will result in a higher cash flow from operating activities.  This is because 
+CFO=net income +/- adjustments.  Capital lease results in lower income, but the 
+depreciation part needs to be added back so  the net effect is only –$2882 vs -
+$10,000 for operating lease. Intuitively, th e cash outflow under capital lease is 
+split into two parts: the inte rest expense part goes into CF from operating , and 
+the part that reduces th e principal goes into cash flow from financing  activities. 
+8 VI. Miscellaneous issues (20 points) 
+CBC Corporation is searching for ways to improve its performance. The head of 
+marketing wants to offer larger sales discount s to repeat customers, while the head of 
+operations wants reduce shippi ng and handling costs.  The company's controller thinks 
+there could also be an ""accounting answer""-- his idea is to reduce the estimated life of 
+packaging and delivery equipment in order to increase the amount of depreciation 
+expense. He believes this would improve cash flow because depr eciation expense is 
+""added back"" on the statement of cash flows. 
+CBC Corporation’s 2002 income statement and sele cted balance sheet accounts appear below.  
+Income Statement (selected items) 
+Sales $135,000 
+Cost of goods sold (90,000) 
+Selling and admin.expenses (inclu des $8,000 depreciation)  (25,000) 
+Gain on sale of equipment * 10,000 
+Interest expense (5,000) 
+Income taxes (5,000)
+Net income  $20,000
+*Equipment had an original cost of $35,000; selling price was $18,000. 
+Balance Sheet (selected items)
+ 12-31-02 01-01-02 
+(Ending)  (Beginning)
+Cash $14,000 $21,000 
+Accounts receivable 40,000 30,000 
+Merchandise inventories 55,000 61,000 
+Prepaid expenses 5,000 8,000 
+Accounts payable 35,000 40,000 
+Deferred revenue 15,000 12,000 
+Other liabilities 5,000 3,000 
+1. Determine the accumulated depreciation on the equipment sold in 2002? (5 points) 
+Selling price - (cost - accumulated depreciation) = gain on sale 
+$18,000 - ($35,000 -  x) = $10,000;  x = $27,000 
+2.	CBC deferred $5000 of their revenue to 2003 becau se the merchandise has not yet been 
+shipped although the customers already paid in cash.  Does deferring the revenue result in 
+a deferred tax asset or liability?  Why? (5 points) 
+This will result in Deferred Tax Asset.  This is because the deferred revenue is 
+going to cause GAAP income<IRS income, and therefore tax expense is less than 
+tax payable. 
+9
+3.	How much cash was paid to merchandise suppliers in 2002 (assume all merchandised 
+were purchased on account)? (5 points) 
+61,000 + New merchandise-COGS = 55,000 
+⇒New merchandise= 145,000-61,000=84,000 
+A/P ending = A/P beginning + new merchandise purchased on account-cash paid 
+⇒ 35,000=40,000+84,000-cash paid 
+⇒ cash paid=89,000 
+4.	Use the chart below to indicate how increa sing depreciation expe nse would affect the 
+financial statements.  Use  + for increase, - for decrease, and NE fo r no effect.  How do 
+you like the controller’s accounting solution? (5 points) 
+Operating Cash Flow Net Income Total Assets Total 
+Liabilities  Total Stock­ Holders’ Equity
+NE - - NE -
+10
+VII. Consolidation (20 points) 
+The Coca Cola Company [ KO] owns 44% of Coca Cola Enterprises [ CCE ], one of its anchor 
+bottlers. Since its ownership percentage is lo wer than 50%, KO accounts for its investment in 
+CCE using the equity method.  Analysts ha ve pointed out though that KO has a dominant 
+influence on CCE and that to reflect the true economics of the relation between both companies, 
+KO ought to consolidate  CCE, rather than use the equity method. 
+a)	 Consider the simplified balance sh eets of both KO and CCE on 12/31/Y1 on the 
+following page . Using the information about the ow nership percentage of KO in CCE, 
+that is 44%, consolidate CCE’s accounts into KO’s.  Notice that we have already started 
+the consolidation. You just need to complete  the consolidated balance sheet.  ( Hint: you 
+need to first eliminate intra-company acc ounts, i.e., amounts CCE owns KO or vice 
+versa before you can carry out the consolidation). 
+Show all calculations. (10 points) 
+-We eliminate intra-com pany transactions from both the amounts due and the 
+accounts payable (6). 
+-We eliminate the investment in CCE (556). 
+-We realize that book value of equity of KO is the same whether we follow the equity 
+method or fully consolidate. 
+-We record minority interest: 56% of the book value of CCE 
+-We record the plug: in this case a negative goodwill of 62
+11
+Simplified Balance Sheets (12/31/Y1)
+ASSETS KO CCE Consolidated 
+Adjustment 
+Current Assets 
+Cash and MS 1,315 8 1,323 
+Accounts receivable 1,695 510 2,205 
+Amounts due from the Coca Cola Co . 0 6 -6 0 
+Inventories 1,117 225 1,342 
+Equity method investments 
+Coca Cola Enterprises 556 0 -556 0 
+PPE, ne t 4,336 2,158 6,494 
+Intan gibles 944 5,924 -62 6,806 
+Other Assets 5,078 233 5,311 
+Total assets 15,041 9,064 23,481 
+LIABILITIES 
+Current liabilities 
+Accounts Payable 4,425 796 -6 5,215 
+Notes Payable 2,923 63 2,986 
+Non-current liabilities 
+Long-term debt 1,141 4,138 5,279 
+Other non-current liabilities 966 630 1,596 
+Deferred income taxes 194 2,032 2,226 
+Minorit y Interes t 0 0 787 787 
+EQUITY 
+Common stoc k 428 145 -145 428 
+APIC 1,291 1,116 -1116 1,291 
+Retained earnings 3,673 144 -144 3,673 
+Total liabilities + equit y 15,041 9,064 23,481 
+b) Consider now the following intra-compa ny sales during the same fiscal year: 
+KO paid CCE $2,424 (i.e., booked as revenue for CCE and COGS for KO) 
+12 We also have the following excerpts from the published income statements of both 
+companies in fiscal Y1: 
+KO CCE 
+Sales 18,018 6,773 
+COGS 6,940 4,267 
+Gross Profit 11,078 2,506 
+The gross profit for KO is computed with CCE treated as an equity investment.  Based on 
+our information, what would have been KO’s gross profit if it had consolidated CCE 
+rather than used the equity method? (5 points ) 
+We would eliminate $2,424 from both the revenues of CCE and the COGS of KO.  Net this means that the two adjustments cancel out, so Gross Profit stays exactly the same. 
+c)	 CCE reports a net income of $82 in its publis hed income statement of fiscal Y1.  KO 
+reports a net income of $2,986 in its published income statement of fiscal Y1, after 
+incorporating the results of  CCE using the equity method.  What would be the net 
+income of KO in Y1 if it had consolidated CCE rather than used the equity 
+method ?  Explain why. (5 points) 
+Net income is the same under both methods. Equity method reflects our stake in 
+one line. Full consolidation spreads ou r stake out over al l the revenue and 
+expense items on the income statement and  adjusts for the minority interest: net 
+effect on income is therefore the same under either method. 
+13
+",True,True,1,1,0,False,1,False,True,True
+5601,15-351-managing-the-innovation-process-fall-2002,Name: _________________________,True,False,0,1,1,False,1,False,True,True
+5605,15-351-managing-the-innovation-process-fall-2002,Name: _________________________  ,True,False,0,1,1,False,1,False,True,True
+8992,15-351-managing-the-innovation-process-fall-2002,Name: _________________________,True,False,0,1,1,False,1,False,True,True
+8996,15-351-managing-the-innovation-process-fall-2002,Name: _________________________  ,True,False,0,1,1,False,1,False,True,True
+11496,2-20-marine-hydrodynamics-13-021-spring-2005,2.20 Problem Set 10B Name: ____________________,True,False,0,1,1,False,1,False,True,True
+11499,2-20-marine-hydrodynamics-13-021-spring-2005,2.20 Problem Set 11A Name: ____________________,True,False,0,1,1,False,1,False,True,True
