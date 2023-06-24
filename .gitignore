@@ -1,0 +1,6 @@
+*.npy
+scrape/ck12/downloaded/*.html
+debug.log
+wandb/*
+outputs/*
+*.pyc
